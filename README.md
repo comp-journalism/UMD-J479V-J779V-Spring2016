@@ -1,4 +1,4 @@
-### JOUR479V / JOURJ779D: Computational Journalism - Spring 2016###
+### JOUR479V / JOUR779V: Computational Journalism - Spring 2016###
 **University of Maryland, College Park, College of Journalism**  
 **Mondays 10:00am - 1:45pm**  
 **Location: Knight Hall Room 2107**
