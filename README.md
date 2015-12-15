@@ -69,17 +69,31 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 ####February 15 - Social Media and Social Network Analytics####
 
+- Readings due: 
+  - N. Diakopoulos, M. De Choudhury, M. Naaman. Finding and Assessing Social Media Information Sources in the Context of Journalism. Conference on Human Factors in Computing Systems (CHI). May, 2012. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/SRSR-diakopoulos.pdf)
+
 ####February 22 - Automated News Production####
 
 ####February 29 - Computational Content####
 
-####March 7 - Content Analytics & Impact####
+####March 7 - Algorithmic Accountability & Transparency####
 
 ####March 14 - Spring break, no class!####
  
-####March 21 - Algorithmic Accountability & Transparency####
+####March 21 - Content Analytics & Impact####
+
+- Readings due:
+  - N. Diakopoulos and A. Zubiaga. Newsworthiness and Network Gatekeeping on Twitter: The Role of Social Deviance. Proc. International Conference on Weblogs and Social Media (ICWSM). June, 2014. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2014/04/Newsworthiness-and-Network-Gatekeeping-on-Twitter-The-Role-of-Social-Deviance_FINAL.pdf) 
+
+####March 28 - Content Platforms####
+
+- Readings due: 
+  - N. Diakopoulos. Computational Journalism and the Emergence of News Platforms. The Routledge Companion to Digital Journalism Studies. Eds. Scott Eldridge II and Bob Franklin. June, 2016. [PDF Pre-print](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/Computational-Journalism-and-the-Emergence-of-News-Platforms.pdf)
 
 ####April 4 - Designing and Building CJ Tools####
+
+- Readings due:
+  - D.G. Park, S. Singh, N. Diakopoulos, N. Elmqvist. Interactive Identification of High Quality Online News Comments. Proc. Conference on Human Factors in Computing Systems (CHI). 2016. [PDF]
 
 ####April 11 - Project work####
 
