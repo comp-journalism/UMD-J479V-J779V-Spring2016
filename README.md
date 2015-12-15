@@ -20,10 +20,11 @@ By the end of the course students should expect to have gained:
 ####Textbook and readings####
 - Course Readings will draw on a wide range of texts including books, articles, and research papers. Copyrighted readings will be linked to the syllabus but hosted on UMD's ELMS so you'll need to log in there to download PDFs. Since readings may be updated over the course of the semester please check the online schedule on a weekly basis in order to get that week’s readings.
 
-####Other Computational Journalism Courses####
-- Georgia Tech [Link](https://compjournalism.wordpress.com/)
-- Columbia [Link](http://www.compjournalism.com/)
-- Stanford [Link](http://www.compjour.org/)
+####Other Resources####
+- Computational Journalism Course @ Georgia Tech [Link](https://compjournalism.wordpress.com/)
+- Computational Journalism Course @ Columbia [Link](http://www.compjournalism.com/)
+- Computational Journalism Course @ Stanford [Link](http://www.compjour.org/)
+- Symposium on Computation + Journalism [2015](http://cj2015.brown.columbia.edu/)
 
 ####About the Instructor####
 Dr. Nicholas Diakopoulos is an Assistant Professor at the University of Maryland College of Journalism, with courtesy appointments in the College of Information Studies and Department of Computer Science. His research is in computational and data journalism with an emphasis on algorithmic accountability, narrative data visualization, and social computing in the news. He received his Ph.D. in Computer Science from the School of Interactive Computing at Georgia Tech where he co-founded the program in Computational Journalism. Before UMD he worked as a researcher at Columbia University, Rutgers University, and CUNY studying the intersections of information science, innovation, and journalism. 
@@ -46,7 +47,7 @@ Students with a specific disability (permanent or temporary, physical or learnin
 ####Assignments & Evaluation###
 All assignments and projects are due at the start of the class unless otherwise noted. Detailed instructions for each assignment and project will be provided as per the class schedule. Assignments will be evaluated based on accuracy, functionality, critical and analytic rigor, and writing quality and clarity.
 
-- *Assignments (XXX%)*
+- *Assignments (50%)*
   - For 479D there will be a total for four assignments due in the class (each worth 12.5%). 
   - For 779D there will be five assignments due in the class (each worth 10%). The extra assignment in 779D is selecting, presenting, and leading discussion on one of the research papers listed on the syllabus. 
 - *Final Project Proposal (10%)*
@@ -66,141 +67,36 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 ####September 7 - No class, Labor Day!####
 
 ####September 14 - Data, Data, Data####
-- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/blob/master/Slides/2_Datadatadata.pptx?raw=true)
-- Readings Due
-  - Diakopoulos. The Rhetoric of Data. 2013. [Link](http://towcenter.org/blog/the-rhetoric-of-data/)
-  - *The Data Journalism Handbook.* Chapter 5: Understanding Data. [Link](http://datajournalismhandbook.org/1.0/en/understanding_data.html)
-  - Brademann & Gregory. *Data + Design.* Chapter 8: Data Cleaning. [Link](https://infoactive.co/data-design/ch08.html)
 
-- In class tutorial
-  - Murray. *Interactive Data Visualization for the Web.* Chapter 5: Data.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch05.html)
-  
-- Additional tutorials / resources
-  - JSON. [Link](http://learnxinyminutes.com/docs/json/)
-  - Introduction to MySQL (including interactive lessons) [Link](http://sqlbolt.com/)
-
-- **779D Assignment: Research Paper Selection DUE**
-
-- **Assignment One Out**
-  - Illustrating a News Investigation. [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/wiki/Assignment-1---Illustrating-a-News-Investigation)
-  
 ####September 21 - Visualization Design####
-- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Slides/3_Visualization%20Design.pptx)
-- Readings Due
-  - Cairo. *The Functional Art.* Chapter 2: Forms and Functions: Visualizations as a Technology
-  - Cairo. *The Functional Art.* Chapter 3: The Beauty Paradox: Art and Communication"
-  - Wong. *WSJ Guide to Information Graphics.* Chapter 1: Basics. [Link](https://myelms.umd.edu/files/39864926/download?download_frd=1)
-  
-- Recommended Reading
-  - Makulec. *Data + Design.* Chapter 14: Anatomy of a Graphic. [Link](https://infoactive.co/data-design/ch14.html)
-  
-- In class tutorial
-  - Murray. *Interactive Data Visualization for the Web.* Chapter 6: Drawing with Data.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch06.html)
+
 
 ####September 28 - Visual Perception & Design####
-- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Slides/4_Visual_perception_and_design.pptx)
 
-- Readings Due
-  - Ware. *Visual Thinking for Design.* Chapter 1: Visual Queries [Link](https://myelms.umd.edu/files/39864928/download?download_frd=1)
-  - Ware. *Visual Thinking for Design.* Chapter 2: What We Can Easily See [Link](https://myelms.umd.edu/files/39864930/download?download_frd=1)
-  - Ware. *Visual Thinking for Design.* Chapter 4: Color [Link](https://myelms.umd.edu/files/39864929/download?download_frd=1)
-  - Cairo. *The Functional Art.* Chapter 6: Visualizing for the Mind
-  
-- Recommended Reading
-  - Groeger. Design Principles for News Apps & Graphics. [Link](http://www.propublica.org/nerds/item/design-principles-for-news-apps-graphics)
-
-- In class tutorial
-  - Murray. *Interactive Data Visualization for the Web.* Chapter 7: Scales.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch07.html)
-  - Murray. *Interactive Data Visualization for the Web.* Chapter 8: Axes.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch08.html)
    
 ####October 5 - Design & Production Practices####
 
-- Guest: Lindsey Cook, data reporter from U.S. News & World Report [Link](https://twitter.com/Lindzcook)
 
-- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Slides/5_Design%20and%20production%20practices.pptx)
-
-- Readings / Viewings Due
-  - Bostock. Design is a Search Process. [Link](https://www.youtube.com/watch?v=fThhbt23SGM)
-  - Cairo. *The Functional Art.* Chapter 8: Creating Information Graphics
-  - Unger & Chandler. *Project Guide to UX Design.* Chapter 10: Site Maps and Task Flows [Link](https://myelms.umd.edu/files/39864914/download?download_frd=1)
-  - Unger & Chandler. *Project Guide to UX Design.* Chapter 11: Wireframes and Annotations [Link](https://myelms.umd.edu/files/39864931/download?download_frd=1)
-
-- In class tutorial
-  - Murray. *Interactive Data Visualization for the Web.* Chapter 10: Interactivity.  [Link](http://chimera.labs.oreilly.com/books/1230000000345/ch10.html)
-  
-- **Assignment 1 DUE**
-
-- **Assignment Out**
-  - Final Project Proposal [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/wiki/Final-Project)
-  
 ####October 12 - Exploratory Visualization & Visual Analytics####
-- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Slides/6_Exploratory%20Visualization.pptx)
-- Readings Due
-  - Few. *Now You See It.* Chapter 4: Analytic Interaction and Navigation. [Link](https://myelms.umd.edu/files/39864875/download?download_frd=1)
-  - Few. *Now You See It.* Chapter 5: Analytic Techniques and Practices. [Link](https://myelms.umd.edu/files/39864881/download?download_frd=1)
-
-- **Assignment Two Out**
-  - Exploratory Visualization for News Finding. [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/wiki/Assignment-2---Exploratory-Visualization-for-News-Finding)
 
 ####October 19 - Explanatory and Narrative Visualization####
-- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Slides/7_Explanatory_narrative_visualization.pptx)
-- Readings Due
-  - Segel & Heer. Narrative Visualization: Telling Stories with Data. IEEE Transactions on Visualization & Computer Graphics. 2010 [Link](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf)
-  - Tufte. *Beautiful Evidence.* The Fundamental Principles of Analytic Design. [Link](https://myelms.umd.edu/files/39864867/download?download_frd=1)
-  - Cairo. *The Functional Art.* Chapter 9: The Rise of Interactive Graphics. 
+ 
 
 ####October 26 - Network, Timeline, and Text Visualizations####
-- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Slides/8_Networks_timelines_texts.pptx)
-- Readings Due
-  - Meirelles. *Design for Information.* Chapter 2: Relational Structures: Networks. [Link](https://myelms.umd.edu/files/39864887/download?download_frd=1) 
-  - Meirelles. *Design for Information.* Chapter 3: Temporal Structures: Timelines and Flows. [Link](https://myelms.umd.edu/files/39864889/download?download_frd=1) 
-  - Meirelles. *Design for Information.* Chapter 6: Textual Structures. [Link](https://myelms.umd.edu/files/39864895/download?download_frd=1)
-  
-- **Assignment DUE: Final Project Proposal**
+
 
 ####November 2 - Visualization Rhetoric & Critique####
-- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Slides/9_Visualization%20Rhetoric%20and%20Critique.pptx)
-- Readings Due
-  - Hullman & Diakopoulos. Visualization Rhetoric: Framing Effects in Narrative Visualization. IEEE Transactions on Visualization & Computer Graphics. 2011. [Link](http://www.nickdiakopoulos.com/Documents/visRhetoric_final_preprint.pdf)
-  - Tufte. *The Visual Display of Quantitative Information.* Graphical Integrity. [Link](https://myelms.umd.edu/files/39864873/download?download_frd=1)
-  - Viégas and Wattenberg. Design and Redesign in Data Visualization. [Link](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9)
 
-- **Assignment Two DUE**
-
-- **Assignment Three OUT**
-  - Visualization Critique. [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/wiki/Assignment-3---Visualization-Critique)
 
 ####November 9 - User Experience & Usability Evaluation####
-- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Slides/10_Visualization%20UX%20and%20Usability%20Evaluation.pptx)
-- Research Paper Presentation by Mukul Agarwal on "Understanding Data Videos: Looking at Narrative Visualization through the Cinematography Lens" [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Slides/Mukul%20Agarwal%20-%20Research%20Paper%20Presentation%20-%20JOUR%20779D.pptx)
-- Readings Due
-  - Krug. *Don't Make Me Think.* Chapter 9: Usability Testing on 10 cents a day. [Link](https://myelms.umd.edu/files/39864863/download?download_frd=1)
-  - Nielson. *Usability Engineering.* Chapter 2: What is Usability. [Link](https://myelms.umd.edu/files/39864900/download?download_frd=1)
-  - Nielson. *Usability Engineering.* Chapter 6: Usability Testing. [Link](https://myelms.umd.edu/files/39864904/download?download_frd=1)
 
-- Heuristics
-  - Nielson's List [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Heuristics/Nielson%E2%80%99s%2010%20Usability%20Heuristics.pdf)
-  - Shneiderman's Eight Golden Rules [Link](http://faculty.washington.edu/jtenenbg/courses/360/f04/sessions/schneidermanGoldenRules.html)
-  - Vizualization Specific List [Link](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Heuristics/Vis%20Heuristics.pdf)
   
 ####November 16 - Mapping####
-- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Slides/11_mapping.pptx)
-- Research Paper Presentation by Joey Trull on "Steve Haroz, Robert Kosara, Steven L. Franconeri. ISOTYPE Visualization – Working Memory, Performance, and Engagement with Pictographs. Proc. Human Factors in Computing Systems (CHI). 2015." [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Slides/Joey%20Trull%20-%20Presentation.pptx)
-- Readings Due
-  - MapSchool [Link](http://mapschool.io/)
-  - Ericson. When Maps Shouldn't Be Maps. [Link](http://www.ericson.net/content/2011/10/when-maps-shouldnt-be-maps/)
-  - Marmonie, M. How to Lie with Maps. Chapter 2: Elements of the Map. [Link](https://myelms.umd.edu/files/40882408/download?download_frd=1)
-  
-- **Assignment Three DUE**
+
 
 ####November 23 - Class feedback on final projects####
 
 ####November 30 - Emerging Topics: Mobile, Artistic, & Collaborative Visualization####
-- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Slides/12_Mobile%20Artistic%20Collaborative%20Vis.pptx)
-- Research Paper Presentation by Rajath Rao on "Lyra: An Interactive Visualization Design Environment. Proc. EuroVis. 2014." [PPT](https://github.com/comp-journalism/UMD-J479D-J779D-Fall2015/raw/master/Slides/Rajath%20Rao%20-%20paper_presentation.pptx)
-- Readings Due
-  - Heer et al. Voyagers and Voyeurs: Supporting Asynchronous Collaborative Visualization. Communications of the ACM. 2009. [Link](http://vis.stanford.edu/files/2009-Voyagers-CACM.pdf)
-  - Florit. The Boston Globe’s Gabriel Florit on Responsive Visualizations. [Link](https://source.opennews.org/en-US/articles/boston-globes-gabriel-florit-responsive-visualizat/)
-  - MobileVis Patterns and Best Practices. [Link](http://patterns.mobilev.is/)
+
 
 ####December 7 - Final Project Presentations####
