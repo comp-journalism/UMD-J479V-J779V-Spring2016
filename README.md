@@ -61,42 +61,31 @@ All assignments and projects are due at the start of the class unless otherwise 
 Assignments will be marked down by one full letter grade for every 24 hours (or fraction thereof) that the assignment is late past the posted deadline. For example, an assignment that would normally receive an A- if submitted on time would receive a B- if it was submitted 1 day late. Assignments more than five days late will not be accepted. Work that is not turned in will receive zero points. In extreme cases (such as a death in the family, or severe illness), an extension may be granted, but students must communicate with the professor in advance of the deadline in these cases. 
 
 ###Schedule###
-####August 31 - Introduction: Data Visualization, Tools and Technologies####
+####January 25 - Computational Thinking in Journalism####
 
+####February 1 - Data-Driven Journalism####
 
-####September 7 - No class, Labor Day!####
+####February 8 - Document and Text Analytics####
 
-####September 14 - Data, Data, Data####
+####February 15 - Social Media and Social Network Analytics####
 
-####September 21 - Visualization Design####
+####February 22 - Automated News Production####
 
+####February 29 - Computational Content####
 
-####September 28 - Visual Perception & Design####
+####March 7 - Content Analytics & Impact####
 
-   
-####October 5 - Design & Production Practices####
-
-
-####October 12 - Exploratory Visualization & Visual Analytics####
-
-####October 19 - Explanatory and Narrative Visualization####
+####March 14 - Spring break, no class!####
  
+####March 21 - Algorithmic Accountability & Transparency####
 
-####October 26 - Network, Timeline, and Text Visualizations####
+####April 4 - Designing and Building CJ Tools####
 
+####April 11 - Project work####
 
-####November 2 - Visualization Rhetoric & Critique####
+####April 18 - Class feedback on final projects####
 
+####April 25 - Emerging Technology: Drones, Wearables, Sensors####
 
-####November 9 - User Experience & Usability Evaluation####
+####May 2 - In Class Final project presentations####
 
-  
-####November 16 - Mapping####
-
-
-####November 23 - Class feedback on final projects####
-
-####November 30 - Emerging Topics: Mobile, Artistic, & Collaborative Visualization####
-
-
-####December 7 - Final Project Presentations####
