@@ -80,7 +80,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - N. Diakopoulos. The Anatomy of a Robot Journalist. Tow Center. July 2014. [Link](http://towcenter.org/the-anatomy-of-a-robot-journalist/)
   - S. Wang. The New York Times built a Slack bot to help decide which stories to post to social media. Nieman Lab. Aug 2015. [Link](http://www.niemanlab.org/2015/08/the-new-york-times-built-a-slack-bot-to-help-decide-which-stories-to-post-to-social-media/)
 
-####February 29 - Computational Content####
+####February 29 - Simulation, Prediciton, and Modeling####
 
 ####March 7 - Algorithmic Accountability & Transparency####
 
