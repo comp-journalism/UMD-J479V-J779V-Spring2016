@@ -18,7 +18,7 @@ By the end of the course students should expect to have gained:
 - A university statistics course, or permission of the instructor
 
 ####Textbook and readings####
-- Course Readings will draw on a wide range of texts including books, articles, and research papers. Copyrighted readings will be linked to the syllabus but hosted on UMD's ELMS so you'll need to log in there to download PDFs. Since readings may be updated over the course of the semester please check the online schedule on a weekly basis in order to get that week’s readings.
+- There is no single textbook for the course. Readings will draw on a wide range of texts including books, articles, and research papers. Copyrighted readings will be linked to the syllabus but hosted on UMD's ELMS so you'll need to log in there to download PDFs. Since readings may be updated over the course of the semester please check the online schedule on a weekly basis in order to get that week’s readings.
 
 ####Other Resources####
 - Computational Journalism Course @ Georgia Tech [Link](https://compjournalism.wordpress.com/)
