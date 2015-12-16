@@ -66,6 +66,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 ####February 1 - Data-Driven Journalism####
 
 ####February 8 - Document and Text Analytics####
+(Guest lecture by Jennifer Stark)
+
 
 - Readings due: 
   - C. Felix, A. Vikram Pandey, E. Bertini, C. Ornstein and S. Klein. RevEx: Visual Investigative Journalism with A Million Healthcare Reviews. Symposium on Computation + Journalism. 2015. [PDF](http://cj2015.brown.columbia.edu/papers/revex.pdf) | [ProPublica Article](http://www.propublica.org/article/stay-far-far-away-and-other-things-gleaned-from-yelp-health-reviews)
