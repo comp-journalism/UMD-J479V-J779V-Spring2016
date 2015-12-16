@@ -89,8 +89,10 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 ####March 7 - Algorithmic Accountability & Transparency####
 
-- Readings due:
+- Research Readings due:
   - N. Diakopoulos. Algorithmic Accountability: Journalistic Investigation of Computational Power Structures. Digital Journalism. 2015. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/algorithmic_accountability_final.pdf)
+- Other Readings due:
+  - J. Valentino-Devries,  J. Singer-Vine, A. Soltani. Websites Vary Prices, Deals Based on Users' Information. Wall Street Journal. 2012. [Article is top link here](https://www.google.com/#safe=off&q=Websites+Vary+Prices%2C+Deals+Based+on+Users%27+Information)
 
 ####March 14 - Spring break, no class!####
  
