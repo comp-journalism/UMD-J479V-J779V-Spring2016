@@ -91,9 +91,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 ####March 7 - Algorithmic Accountability & Transparency####
 
-- Research Readings due:
+- Readings due:
   - N. Diakopoulos. Algorithmic Accountability: Journalistic Investigation of Computational Power Structures. Digital Journalism. 2015. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/algorithmic_accountability_final.pdf)
-- Other Readings due:
   - J. Valentino-Devries,  J. Singer-Vine, A. Soltani. Websites Vary Prices, Deals Based on Users' Information. Wall Street Journal. Dec. 2012. [Article is top link here](https://www.google.com/#safe=off&q=Websites+Vary+Prices%2C+Deals+Based+on+Users%27+Information)
   - N. Diakopoulos. How Uber surge pricing really works. Washington Post. April, 2015. [Link](https://www.washingtonpost.com/news/wonk/wp/2015/04/17/how-uber-surge-pricing-really-works/)
 
