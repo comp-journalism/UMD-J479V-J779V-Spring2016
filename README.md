@@ -112,7 +112,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 ####April 4 - Designing and Building CJ Tools####
 
 - Readings due:
-  - D.G. Park, S. Singh, N. Diakopoulos, N. Elmqvist. Interactive Identification of High Quality Online News Comments. Proc. Conference on Human Factors in Computing Systems (CHI). 2016. [PDF]
+ - Shneiderman, B. et al. Designing the User Interface. 6th Edition. Chapter 4. [PDF] 
+ - D.G. Park, S. Singh, N. Diakopoulos, N. Elmqvist. Interactive Identification of High Quality Online News Comments. Proc. Conference on Human Factors in Computing Systems (CHI). 2016. [PDF]
 
 ####April 11 - Project work####
 
