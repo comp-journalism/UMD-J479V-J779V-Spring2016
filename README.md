@@ -104,7 +104,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - Readings due:
   - N. Diakopoulos and A. Zubiaga. Newsworthiness and Network Gatekeeping on Twitter: The Role of Social Deviance. Proc. International Conference on Weblogs and Social Media (ICWSM). June, 2014. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2014/04/Newsworthiness-and-Network-Gatekeeping-on-Twitter-The-Role-of-Social-Deviance_FINAL.pdf) 
 
-####March 28 - Content Platforms####
+####March 28 - Content Platforms, Algorithmic Curation, and Personalization####
 
 - Readings due: 
   - N. Diakopoulos. Computational Journalism and the Emergence of News Platforms. The Routledge Companion to Digital Journalism Studies. Eds. Scott Eldridge II and Bob Franklin. June, 2016. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/Computational-Journalism-and-the-Emergence-of-News-Platforms.pdf)
