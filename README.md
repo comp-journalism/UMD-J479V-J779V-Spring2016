@@ -98,10 +98,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 ####March 14 - Spring break, no class!####
 
-####March 21 - Platforms: Algorithmic Curation & Personalization####
+####March 21 - Algorithmic Curation & Personalization####
 
 - Readings due: 
-  - N. Diakopoulos. Computational Journalism and the Emergence of News Platforms. The Routledge Companion to Digital Journalism Studies. Eds. Scott Eldridge II and Bob Franklin. June, 2016. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/Computational-Journalism-and-the-Emergence-of-News-Platforms.pdf)
   - E. Bozdag. Bias in algorithmic filtering and personalization. Ethics and Information Technology 15, 3 (2013), 209–227 [PDF](https://www.researchgate.net/profile/Engin_Bozdag/publication/274633438_etin-final/links/5523d18f0cf2c815e0732a14.pdf)
 
 ####March 28 - Content Analytics & Impact####
@@ -110,10 +109,10 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - N. Diakopoulos and A. Zubiaga. Newsworthiness and Network Gatekeeping on Twitter: The Role of Social Deviance. Proc. International Conference on Weblogs and Social Media (ICWSM). June, 2014. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2014/04/Newsworthiness-and-Network-Gatekeeping-on-Twitter-The-Role-of-Social-Deviance_FINAL.pdf) 
 
 
-####April 4 - Designing and Innovating CJ Tools####
+####April 4 - Innovating CJ Tools & Platforms####
 
 - Readings due:
- - Shneiderman, B. et al. Designing the User Interface. 6th Edition. Chapter 4: Design. [PDF] 
+ - N. Diakopoulos. Computational Journalism and the Emergence of News Platforms. The Routledge Companion to Digital Journalism Studies. Eds. Scott Eldridge II and Bob Franklin. June, 2016. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/Computational-Journalism-and-the-Emergence-of-News-Platforms.pdf)
  - N. Diakopoulos. Cultivating the Landscape of Innovation in Computational Journalism. Tow-Knight Center for Entrepreneurial Journalism. April, 2012. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2012/05/diakopoulos_whitepaper_systematicinnovation.pdf)
  - D.G. Park, S. Singh, N. Diakopoulos, N. Elmqvist. Interactive Identification of High Quality Online News Comments. Proc. Conference on Human Factors in Computing Systems (CHI). 2016. [PDF]
 
