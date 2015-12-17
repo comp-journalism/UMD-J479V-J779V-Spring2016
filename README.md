@@ -98,7 +98,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 ####March 14 - Spring break, no class!####
 
-####March 21 - Platforms: Algorithmic Curation and Personalization####
+####March 21 - Platforms: Algorithmic Curation & Personalization####
 
 - Readings due: 
   - N. Diakopoulos. Computational Journalism and the Emergence of News Platforms. The Routledge Companion to Digital Journalism Studies. Eds. Scott Eldridge II and Bob Franklin. June, 2016. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/Computational-Journalism-and-the-Emergence-of-News-Platforms.pdf)
