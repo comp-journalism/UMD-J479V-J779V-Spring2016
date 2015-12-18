@@ -63,7 +63,10 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 ###Schedule###
 ####January 25 - Computational Thinking in Journalism####
 
-####February 1 - Data-Driven Journalism####
+####February 1 - Computational and Data-Driven Journalism####
+
+- Readings due:
+  - M. Coddington. Clarifying Journalism’s Quantitative Turn: A Typology for Evaluating Data Journalism, Computational Journalism, and Computer-Assisted Reporting. Digital Journalism, 3(3), 331–348. 2015. [Article](http://www.tandfonline.com/doi/abs/10.1080/21670811.2014.976400) (access on campus or via library to download PDF)
 
 ####February 8 - Document and Text Analytics####
 (Guest lecture by Jennifer Stark, Research Scientist at UMD Computational Journalism Lab)
