@@ -89,6 +89,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 ####February 29 - Simulation, Predicton, and Modeling####
 
+- Readings due:
+  - I. Bogost, S. Ferrari, and B. Schweizer. Newsgames: Journalism at Play. 2010. Chapter 1: Newsgames. [PDF]
+
 ####March 7 - Algorithmic Accountability & Transparency####
 
 - Readings due:
