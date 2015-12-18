@@ -112,6 +112,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 - Readings due:
   - N. Diakopoulos and A. Zubiaga. Newsworthiness and Network Gatekeeping on Twitter: The Role of Social Deviance. Proc. International Conference on Weblogs and Social Media (ICWSM). June, 2014. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2014/04/Newsworthiness-and-Network-Gatekeeping-on-Twitter-The-Role-of-Social-Deviance_FINAL.pdf) 
+  - C. Breaux. You’ll Never Guess How Chartbeat’s Data Scientists Came Up With the Single Greatest Headline. Chartbeat Blog. Nov. 2015. [Article](http://blog.chartbeat.com/2015/11/20/youll-never-guess-how-chartbeats-data-scientists-came-up-with-the-single-greatest-headline/)
 
 
 ####April 4 - Innovating CJ Tools & Platforms####
