@@ -90,6 +90,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 ####February 29 - Simulation, Predicton, and Modeling####
 
 - Readings due:
+  - D. Lazar et al. The Parable of Google Flu: Traps in Big Data Analysis. Science Vol 343. March, 2014. [PDF](http://scholar.harvard.edu/files/gking/files/0314policyforumff.pdf)
   - I. Bogost, S. Ferrari, and B. Schweizer. Newsgames: Journalism at Play. 2010. Chapter 1: Newsgames. [PDF]
 
 ####March 7 - Algorithmic Accountability & Transparency####
