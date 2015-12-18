@@ -66,7 +66,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 ####February 1 - Data-Driven Journalism####
 
 ####February 8 - Document and Text Analytics####
-(Guest lecture by Jennifer Stark)
+(Guest lecture by Jennifer Stark, Research Scientist at UMD Computational Journalism Lab)
 
 
 - Readings due: 
