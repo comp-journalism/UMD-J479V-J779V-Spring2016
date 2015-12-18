@@ -129,7 +129,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 ####April 18 - Class feedback on final projects####
 
-####April 25 - Emerging Technology: Drones, Wearables, Sensors####
+####April 25 - Emerging Technology: Drones & Sensors####
 
 ####May 2 - In Class Final project presentations####
 
