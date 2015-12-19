@@ -115,7 +115,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 ####March 28 - Content Analytics & Impact####
 
 - Readings due:
-  - N. Diakopoulos and A. Zubiaga. Newsworthiness and Network Gatekeeping on Twitter: The Role of Social Deviance. Proc. International Conference on Weblogs and Social Media (ICWSM). June, 2014. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2014/04/Newsworthiness-and-Network-Gatekeeping-on-Twitter-The-Role-of-Social-Deviance_FINAL.pdf) 
+  - C. Castillo, et al. Characterizing the life cycle of online news stories using social media reactions. Proc. Conference on Computer Supported Cooperative Work & Social Computing (CSCW). 2014. [PDF](http://chato.cl/papers/castillo_elhaddad_pfeffer_stempeck_2013_news_lifecycle.pdf)
+
   - C. Breaux. You’ll Never Guess How Chartbeat’s Data Scientists Came Up With the Single Greatest Headline. Chartbeat Blog. Nov. 2015. [Article](http://blog.chartbeat.com/2015/11/20/youll-never-guess-how-chartbeats-data-scientists-came-up-with-the-single-greatest-headline/)
   - T. Fisher. Do Visual Stories Make People Care? NPR Visuals Blog. Nov. 2015. [Article](http://blog.apps.npr.org/2015/11/19/sequential-visual-stories.html)
 
