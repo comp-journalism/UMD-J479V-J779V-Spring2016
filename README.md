@@ -111,6 +111,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - E. Bozdag. Bias in algorithmic filtering and personalization. Ethics and Information Technology 15, 3 (2013), 209–227 [PDF](https://www.researchgate.net/profile/Engin_Bozdag/publication/274633438_etin-final/links/5523d18f0cf2c815e0732a14.pdf)
   - M. Sifry. Facebook Wants You to Vote on Tuesday. Here's How It Messed With Your Feed in 2012. Mother Jones. Oct. 2014. [Article](http://www.motherjones.com/politics/2014/10/can-voting-facebook-button-improve-voter-turnout)
   - A. Spangher. Building the Next New York Times Recommendation Engine. NYT Open Blog. Aug. 2015 [Article](http://open.blogs.nytimes.com/2015/08/11/building-the-next-new-york-times-recommendation-engine/)
+  - Y. Oren. Flipboard's Approach to Automatic Summarization. Oct. 2014. [Post](http://engineering.flipboard.com/2014/10/summarization/)
 
 ####March 28 - Content Analytics & Impact####
 
