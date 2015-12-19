@@ -137,6 +137,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 - Readings due:
   - M. Tremayne and A. Clark. New Perspectives from the Sky: Unmanned Aerial Vehicles and Journalism. Digital Journalism 2 (2). 2014.  [Article](http://www.tandfonline.com/doi/abs/10.1080/21670811.2013.805039) (access on campus or via library to download PDF)
+  - A Code of Ethics for Drone Journalists. Professional Society of Drone Journalists (PSDJ). [Post](http://www.dronejournalism.org/code-of-ethics)
   - F. Pitt. "USA Today - Ghost Factories" (pages 73 - 82). In: Sensors and Journalism. Tow Center Report. 2014. [PDF](http://towcenter.org/wp-content/uploads/2014/05/Tow-Center-Sensors-and-Journalism.pdf) | [Original USA Today Package](http://usatoday30.usatoday.com/news/nation/smelting-lead-contamination#)
   - L. Bui. A (Working) Typology of Sensor Journalism Projects. Oct. 2014.  [Post](http://cmsw.mit.edu/working-typology-sensor-journalism-projects/)
 
