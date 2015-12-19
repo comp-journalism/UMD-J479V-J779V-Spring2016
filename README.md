@@ -85,7 +85,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 ####February 22 - Automated News Production####
 
 - Readings due:
-  - M. Carlson. The Robotic Reporter: Automated Journalism and the Redefinition of Labor, Compositional Forms, and Journalistic Authority. Digital Journalism. 2014. [PDF]
+  - M. Carlson. The Robotic Reporter: Automated Journalism and the Redefinition of Labor, Compositional Forms, and Journalistic Authority. Digital Journalism. 2014. [Article](http://www.tandfonline.com/doi/abs/10.1080/21670811.2014.976412?journalCode=rdij20#.VnV3feODFBc) (access on campus or via library to download PDF)
   - T. Lokot and N. Diakopoulos. News Bots: Automating News and Information Dissemination on Twitter. Digital Journalism. 2016. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/newsbots_final.pdf)
   - N. Diakopoulos. The Anatomy of a Robot Journalist. Tow Center. July 2014. [Link](http://towcenter.org/the-anatomy-of-a-robot-journalist/)
   - S. Wang. The New York Times built a Slack bot to help decide which stories to post to social media. Nieman Lab. Aug 2015. [Link](http://www.niemanlab.org/2015/08/the-new-york-times-built-a-slack-bot-to-help-decide-which-stories-to-post-to-social-media/)
