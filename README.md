@@ -68,6 +68,10 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 ###Schedule###
 ####January 25 - Introduction: Thinking Computationally####
 
+
+- Other Resources
+  - Pro Git (book helpful for advanced learning about Git) [Link](http://git-scm.com/book/en/v2)
+
 - **779V Assignment: Research Paper Presentation Out**
   - Research Paper Presentation. [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/wiki/Research-Paper-Presentation)
 
