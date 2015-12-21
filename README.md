@@ -87,6 +87,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - N. Silver. What the Fox Knows. Five Thirty Eight. March, 2014. [Article](http://fivethirtyeight.com/features/what-the-fox-knows/)
   - A. Cairo. Data journalism needs to up its own standards. Nieman Lab. July, 2014. [Article](http://www.niemanlab.org/2014/07/alberto-cairo-data-journalism-needs-to-up-its-own-standards/)
   - N. Diakopoulos. The Rhetoric of Data. July, 2013. [Article](http://towcenter.org/the-rhetoric-of-data/)
+  - P. Guo. Data Science Workflow: Overview and Challenges. CACM Blog. Oct. 2013.  [Post](http://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext)
   - J. Singer-Vine. What we’ve learned about sharing our data analysis. Source. Aug. 2015. [Article](https://source.opennews.org/en-US/articles/what-weve-learned-about-sharing-our-data-analysis/) | [Original Buzzfeed Article](http://www.buzzfeed.com/jessicagarrison/the-new-american-slavery-invited-to-the-us-foreign-workers-f#.fcZmbkvQO)
 
 - Recommended Readings
