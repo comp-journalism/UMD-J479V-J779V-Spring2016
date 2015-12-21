@@ -50,7 +50,7 @@ All assignments and projects are due at the start of the class unless otherwise 
 
 - *Assignments (50%)*
   - For 479D there will be a total for four assignments due in the class (each worth 12.5%). 
-  - For 779D there will be five assignments due in the class (each worth 10%). The extra assignment in 779D is selecting, presenting, and leading discussion on one of the research papers listed on the syllabus. 
+  - For 779D there will be five assignments due in the class (each worth 10%). The extra assignment in 779D is selecting, presenting, and leading discussion on a research paper that you will sign up for. 
 - *Final Project Proposal (10%)*
   - You will develop a final project that utilizes the knowledge you acquire throughout the semester in an investigation of an algorithmic system. Your project proposal will describe what you intend to investigate including the data you will collect and how you plan to analyze it for something newsworthy. 
 - *Final Project (25%)*
