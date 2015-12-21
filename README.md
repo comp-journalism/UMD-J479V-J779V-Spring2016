@@ -65,7 +65,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 ####January 25 - Introduction: Thinking Computationally####
 
 - **779D Assignment: Research Paper Presentation Out**
-  - Research Paper Presentation. [Link]()
+  - Research Paper Presentation. [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/wiki/Research-Paper-Presentation)
 
 ####February 1 - Computational and Data Journalism####
 
