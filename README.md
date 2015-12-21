@@ -68,6 +68,10 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 ###Schedule###
 ####January 25 - Introduction: Thinking Computationally####
 
+- Tutorials
+  - Before class
+    - http://generalassembly.github.io/prework/command-line/#/2 
+  - Add link to my tutorial
 
 - Other Resources
   - Pro Git (book helpful for advanced learning about Git) [Link](http://git-scm.com/book/en/v2)
