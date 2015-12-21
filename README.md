@@ -59,7 +59,7 @@ All assignments and projects are due at the start of the class unless otherwise 
   - Students are expected to read and engage with the assigned texts, and to be prepared to discuss those texts critically. In class you will be assessed according to the insightfulness of contributions, critiques, and questions you raise during class discussion.
 
 #####Late Work Policy#####
-Assignments will be marked down by one full letter grade for every 24 hours (or fraction thereof) that the assignment is late past the posted deadline. For example, an assignment that would normally receive an A- if submitted on time would receive a B- if it was submitted 1 day late. Assignments more than five days late will not be accepted. Work that is not turned in will receive zero points. In extreme cases (such as a death in the family, or severe illness), an extension may be granted, but students must communicate with the professor in advance of the deadline in these cases. 
+Assignments will be marked down by one full letter grade for every 24 hours (or fraction thereof) that the assignment is late past the posted deadline. For example, an assignment that would normally receive an A- if submitted on time would receive a B- if it was submitted 1 hour (or 23 hours) late. Assignments more than five days late will not be accepted. Work that is not turned in will receive zero points. In extreme cases (such as a death in the family, or severe illness), an extension may be granted, but students must communicate with the professor in advance of the deadline in these cases. 
 
 ###Schedule###
 ####January 25 - Introduction: Thinking Computationally####
@@ -79,11 +79,11 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 ####February 8 - Document and Text Analytics####
 (Guest lecture by Jennifer Stark, Research Scientist at UMD Computational Journalism Lab)
 
-- **779V Assignment: Research Paper Selection DUE**
-
 - Readings due: 
   - C. Felix, A. Vikram Pandey, E. Bertini, C. Ornstein and S. Klein. RevEx: Visual Investigative Journalism with A Million Healthcare Reviews. Symposium on Computation + Journalism. 2015. [PDF](http://cj2015.brown.columbia.edu/papers/revex.pdf) | [ProPublica Article](http://www.propublica.org/article/stay-far-far-away-and-other-things-gleaned-from-yelp-health-reviews)
   - M Brehmer, S Ingram, J Stray, T Munzner. Overview: The design, adoption, and analysis of a visual document mining tool for investigative journalists. IEEE Transactions on Visualization and Computer Graphics, 20 (12), 2014. [PDF] 
+
+- **779V Assignment: Research Paper Selection DUE**
 
 ####February 15 - Social Media Analytics####
 
