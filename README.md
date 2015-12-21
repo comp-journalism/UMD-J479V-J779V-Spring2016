@@ -12,6 +12,9 @@
 
 ####Learning Goals and Objectives####
 By the end of the course students should expect to have gained:
+- Knowledge of the opportunities that computing creates for journalism in data gathering, sensemaking, presentation, and dissemination, as well as a critical stance and understanding of implications and limitations of algorithms and computing in the media. 
+- An ability to constructively apply that knowledge to computational and data journalism projects and investigations by using computational thinking, data, algorithms, and programming (in Python) as needed. 
+- Skills and knowledge of practical tools that enable computational and data journalism.
 
 
 ####Prerequisites####
