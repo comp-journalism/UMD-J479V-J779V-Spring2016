@@ -71,7 +71,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - N. Silver. What the Fox Knows. Five Thirty Eight. March, 2014. [Article](http://fivethirtyeight.com/features/what-the-fox-knows/)
   - A. Cairo. Data journalism needs to up its own standards. Nieman Lab. July, 2014. [Article](http://www.niemanlab.org/2014/07/alberto-cairo-data-journalism-needs-to-up-its-own-standards/)
   - N. Diakopoulos. The Rhetoric of Data. July, 2013. [Article](http://towcenter.org/the-rhetoric-of-data/)
-  - J. Singer-Vine. What we’ve learned about sharing our data analysis. Source. Aug. 2015. [Article](https://source.opennews.org/en-US/articles/what-weve-learned-about-sharing-our-data-analysis/)
+  - J. Singer-Vine. What we’ve learned about sharing our data analysis. Source. Aug. 2015. [Article](https://source.opennews.org/en-US/articles/what-weve-learned-about-sharing-our-data-analysis/) | [Original Buzzfeed Article](http://www.buzzfeed.com/jessicagarrison/the-new-american-slavery-invited-to-the-us-foreign-workers-f#.fcZmbkvQO)
 
 ####February 8 - Document and Text Analytics####
 (Guest lecture by Jennifer Stark, Research Scientist at UMD Computational Journalism Lab)
