@@ -64,7 +64,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 ###Schedule###
 ####January 25 - Introduction: Thinking Computationally####
 
-- **779D Assignment: Research Paper Presentation Out**
+- **779V Assignment: Research Paper Presentation Out**
   - Research Paper Presentation. [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/wiki/Research-Paper-Presentation)
 
 ####February 1 - Computational and Data Journalism####
@@ -78,6 +78,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 ####February 8 - Document and Text Analytics####
 (Guest lecture by Jennifer Stark, Research Scientist at UMD Computational Journalism Lab)
+
+- **779V Assignment: Research Paper Selection DUE**
 
 - Readings due: 
   - C. Felix, A. Vikram Pandey, E. Bertini, C. Ornstein and S. Klein. RevEx: Visual Investigative Journalism with A Million Healthcare Reviews. Symposium on Computation + Journalism. 2015. [PDF](http://cj2015.brown.columbia.edu/papers/revex.pdf) | [ProPublica Article](http://www.propublica.org/article/stay-far-far-away-and-other-things-gleaned-from-yelp-health-reviews)
