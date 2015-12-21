@@ -80,12 +80,13 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - C. Felix, A. Vikram Pandey, E. Bertini, C. Ornstein and S. Klein. RevEx: Visual Investigative Journalism with A Million Healthcare Reviews. Symposium on Computation + Journalism. 2015. [PDF](http://cj2015.brown.columbia.edu/papers/revex.pdf) | [ProPublica Article](http://www.propublica.org/article/stay-far-far-away-and-other-things-gleaned-from-yelp-health-reviews)
   - M Brehmer, S Ingram, J Stray, T Munzner. Overview: The design, adoption, and analysis of a visual document mining tool for investigative journalists. IEEE Transactions on Visualization and Computer Graphics, 20 (12), 2014. [PDF] 
 
-####February 15 - Social Media and Social Network Analytics####
+####February 15 - Social Media Analytics####
 
 - Readings due: 
   - N. Diakopoulos, M. De Choudhury, M. Naaman. Finding and Assessing Social Media Information Sources in the Context of Journalism. Conference on Human Factors in Computing Systems (CHI). May, 2012. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/SRSR-diakopoulos.pdf)
   - R. Schwartz, M. Naaman, R. Teodoro. Editorial Algorithms: Using Social Media to Discover and Report Local News. Proc. International Conference on Web and Social Media. 2015. [PDF](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/view/10593/10523)
   - A. Fitts. The new importance of ‘social listening’ tools. Columbia Journalism Review. July / August 2015. [Article](http://www.cjr.org/analysis/the_new_importance_of_social_listening_tools.php)
+  - B. Clifton, G. Lotan, E. Pierson. How to tell whether a Twitter user is pro-choice or pro-life without reading any of their tweets. Quartz. Oct 2015. [Article](http://qz.com/520309/how-to-tell-whether-a-twitter-user-is-pro-choice-or-pro-life-without-reading-any-of-their-tweets)
 
 ####February 22 - Automated News Production####
 
