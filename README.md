@@ -26,6 +26,7 @@ By the end of the course students should expect to have gained:
 - Computational Journalism Course @ Stanford [Link](http://www.compjour.org/)
 - Symposium on Computation + Journalism [2015](http://cj2015.brown.columbia.edu/)
 - Source Open News [Link](https://source.opennews.org/en-US/)
+- Curated list of data science blogs [Link](https://github.com/rushter/data-science-blogs)
 
 ####About the Instructor####
 Dr. Nicholas Diakopoulos is an Assistant Professor at the University of Maryland College of Journalism, with courtesy appointments in the College of Information Studies and Department of Computer Science. His research is in computational and data journalism with an emphasis on algorithmic accountability, narrative data visualization, and social computing in the news. He received his Ph.D. in Computer Science from the School of Interactive Computing at Georgia Tech where he co-founded the program in Computational Journalism. Before UMD he worked as a researcher at Columbia University, Rutgers University, and CUNY studying the intersections of information science, innovation, and journalism. 
