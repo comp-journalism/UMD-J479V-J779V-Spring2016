@@ -69,6 +69,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - Readings due:
   - M. Coddington. Clarifying Journalism’s Quantitative Turn: A Typology for Evaluating Data Journalism, Computational Journalism, and Computer-Assisted Reporting. Digital Journalism, 3(3), 331–348. 2015. [Article](http://www.tandfonline.com/doi/abs/10.1080/21670811.2014.976400) (access on campus or via library to download PDF)
   - N. Silver. What the Fox Knows. Five Thirty Eight. March, 2014. [Article](http://fivethirtyeight.com/features/what-the-fox-knows/)
+  - A. Cairo. Alberto Cairo: Data journalism needs to up its own standards. Nieman Lab. July, 2014. [Article](http://www.niemanlab.org/2014/07/alberto-cairo-data-journalism-needs-to-up-its-own-standards/)
   - N. Diakopoulos. The Rhetoric of Data. July, 2013. [Article](http://towcenter.org/the-rhetoric-of-data/)
   - J. Singer-Vine. What we’ve learned about sharing our data analysis. Source. Aug. 2015. [Article](https://source.opennews.org/en-US/articles/what-weve-learned-about-sharing-our-data-analysis/)
 
