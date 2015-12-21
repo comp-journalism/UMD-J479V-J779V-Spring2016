@@ -148,7 +148,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
  - N. Diakopoulos. Cultivating the Landscape of Innovation in Computational Journalism. Tow-Knight Center for Entrepreneurial Journalism. April, 2012. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2012/05/diakopoulos_whitepaper_systematicinnovation.pdf)
  - D.G. Park, S. Singh, N. Diakopoulos, N. Elmqvist. Interactive Identification of High Quality Online News Comments. Proc. Conference on Human Factors in Computing Systems (CHI). 2016. [PDF]
 
-####April 11 - Project work####
+####April 11 - Research Paper Presentations & Project work####
 
 ####April 18 - Class feedback on final projects####
 
