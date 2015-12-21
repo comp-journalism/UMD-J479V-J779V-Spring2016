@@ -76,6 +76,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - N. Diakopoulos. The Rhetoric of Data. July, 2013. [Article](http://towcenter.org/the-rhetoric-of-data/)
   - J. Singer-Vine. What we’ve learned about sharing our data analysis. Source. Aug. 2015. [Article](https://source.opennews.org/en-US/articles/what-weve-learned-about-sharing-our-data-analysis/) | [Original Buzzfeed Article](http://www.buzzfeed.com/jessicagarrison/the-new-american-slavery-invited-to-the-us-foreign-workers-f#.fcZmbkvQO)
 
+- Recommended Readings
+  - C. Groskopf. The Quartz guide to bad data. [Link](https://github.com/Quartz/bad-data-guide)
+
 ####February 8 - Document and Text Analytics####
 (Guest lecture by Jennifer Stark, Research Scientist at UMD Computational Journalism Lab)
 
