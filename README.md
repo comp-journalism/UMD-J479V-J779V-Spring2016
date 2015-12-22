@@ -8,7 +8,7 @@
 **Course Website:** https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016
 
 ####Course Description####
-
+This course explores the conceptualization and application of computational and data-driven approaches to journalism practice. Students will examine computational approaches to journalistic data gathering, curation, sensemaking, presentation, and dissemination and learn to apply methods such as text analysis, natural language generation, social computing, simulation, machine learning, and algorithmic accountability among others. 
 
 ####Learning Goals and Objectives####
 By the end of the course students should expect to have gained:
