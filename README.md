@@ -69,7 +69,6 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 ####January 25 - Introduction: Thinking Computationally####
 
 - In-class Tutorials
-  - Add link to my tutorial
 
 - Homework
   - General Assembly's Command Line Tutorial [Link](http://generalassembly.github.io/prework/command-line/#/2)
