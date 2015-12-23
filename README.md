@@ -121,6 +121,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 ####February 29 - Simulation, Predicton, and Modeling####
 
 - Readings due:
+  - N. Silver. The Signal and the Noise. Penguin Books. 2012. 
+    - Chapter 4: For years you've been telling us that rain is green. [PDF]
+    - Chapter 7: Role models. [PDF]
   - D. Lazar et al. The Parable of Google Flu: Traps in Big Data Analysis. Science Vol 343. March, 2014. [PDF](http://scholar.harvard.edu/files/gking/files/0314policyforumff.pdf)
   - I. Bogost, S. Ferrari, and B. Schweizer. Newsgames: Journalism at Play. 2010. Chapter 1: Newsgames. [PDF]
 
