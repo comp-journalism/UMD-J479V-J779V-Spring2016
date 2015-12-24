@@ -52,14 +52,14 @@ Students with a specific disability (permanent or temporary, physical or learnin
 ####Assignments & Evaluation###
 All assignments and projects are due at the start of the class unless otherwise noted. Detailed instructions for each assignment and project will be provided as per the class schedule. Assignments will be evaluated based on accuracy, functionality, critical and analytic rigor, and writing quality and clarity.
 
-- *Assignments (50%)*
+- *Assignments (45%)*
   - For 479D there will be a total for three assignments due in the class (Asgn #1 worth 12%, Asgn #2 worth 15%, Asgn #3 worth 18%). 
   - For 779D there will be four assignments due in the class (Asgn #1 worth 10%, Asgn #2 worth 13%, Asgn #3 worth 16%). The extra assignment in 779D is selecting, presenting, and leading discussion on a research paper that you will sign up for (worth 6%).
 - *Final Project Proposal (10%)*
   - You will develop a final project that utilizes the knowledge you acquire throughout the semester in an investigation of an algorithmic system. Your project proposal will describe what you intend to investigate including the data you will collect and how you plan to analyze it for something newsworthy. 
-- *Final Project (30%)*
+- *Final Project (25%)*
   - Your final project should demonstrate that you have integrated the knowledge you acquire in this class. Your grade will incorporate aspects of accuracy, critical and analytic rigor, clarity and newsworthiness of the story you tell, and how much your project has improved through various stages of iteration, criticism, and improvement since the initial project proposal.
-- *Class Participation (15%)*
+- *Class Participation (20%)*
   - Students are expected to read and engage with the assigned texts, and to be prepared to discuss those texts critically. In class you will be assessed according to the insightfulness of contributions, critiques, and questions you raise during class discussion.
 
 #####Late Work Policy#####
