@@ -1,6 +1,6 @@
 ### JOUR479V / JOUR779V: Computational Journalism - Spring 2016###
 **University of Maryland, College Park, College of Journalism**  
-**Mondays 10:00am - 1:45pm**  
+**Mondays 10:00am - 12:45pm**  
 **Location: Knight Hall Room 2107**
 
 **Instructor**: Assistant Professor Dr. Nicholas Diakopoulos, nad@umd.edu, <a href="http://www.nickdiakopoulos.com">nickdiakopoulos.com</a>, <a href="https://www.twitter.com/ndiakopoulos">@ndiakopoulos</a>  
