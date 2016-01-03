@@ -91,6 +91,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 - Recommended Readings
   - C. Groskopf. The Quartz guide to bad data. [Link](https://github.com/Quartz/bad-data-guide)
+  
+- **Assignment One OUT**
+  - Computational and Data Journalism Critique [Link]()
 
 ####February 8 - Document and Text Analytics####
 (Guest lecture by Jennifer Stark, Research Scientist at UMD Computational Journalism Lab)
@@ -108,6 +111,10 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - R. Schwartz, M. Naaman, R. Teodoro. Editorial Algorithms: Using Social Media to Discover and Report Local News. Proc. International Conference on Web and Social Media. 2015. [PDF](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/view/10593/10523)
   - A. Fitts. The new importance of ‘social listening’ tools. Columbia Journalism Review. July / August 2015. [Article](http://www.cjr.org/analysis/the_new_importance_of_social_listening_tools.php)
   - B. Clifton, G. Lotan, E. Pierson. How to tell whether a Twitter user is pro-choice or pro-life without reading any of their tweets. Quartz. Oct 2015. [Article](http://qz.com/520309/how-to-tell-whether-a-twitter-user-is-pro-choice-or-pro-life-without-reading-any-of-their-tweets)
+  
+- **Assignment One DUE**
+
+- **Assignment Two OUT**
 
 ####February 22 - Automated News Production####
 
@@ -125,6 +132,10 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
     - Chapter 7: Role models. [PDF]
   - D. Lazar et al. The Parable of Google Flu: Traps in Big Data Analysis. Science Vol 343. March, 2014. [PDF](http://scholar.harvard.edu/files/gking/files/0314policyforumff.pdf)
   - I. Bogost, S. Ferrari, and B. Schweizer. Newsgames: Journalism at Play. 2010. Chapter 1: Newsgames. [PDF]
+  
+- **Assignment Two DUE**
+
+- **Assignment Three OUT**
 
 ####March 7 - Algorithmic Accountability & Transparency####
 
@@ -132,6 +143,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - N. Diakopoulos. Algorithmic Accountability: Journalistic Investigation of Computational Power Structures. Digital Journalism. 2015. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/algorithmic_accountability_final.pdf)
   - J. Valentino-Devries,  J. Singer-Vine, A. Soltani. Websites Vary Prices, Deals Based on Users' Information. Wall Street Journal. Dec. 2012. [Article is top link here](https://www.google.com/#safe=off&q=Websites+Vary+Prices%2C+Deals+Based+on+Users%27+Information)
   - N. Diakopoulos. How Uber surge pricing really works. Washington Post. April, 2015. [Link](https://www.washingtonpost.com/news/wonk/wp/2015/04/17/how-uber-surge-pricing-really-works/)
+  
+- **Final Project Proposal OUT**
+
 
 ####March 14 - Spring break, no class!####
 
@@ -150,6 +164,10 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - E. Tandoc Jr. and R. Thomas. The Ethics of Web Analytics. Digital Journalism, 3:2, 243-258, 2015.  [Article](http://www.tandfonline.com/doi/abs/10.1080/21670811.2014.909122#.Vnc3zOODFBc) (access on campus or via library to download PDF)
   - C. Breaux. You’ll Never Guess How Chartbeat’s Data Scientists Came Up With the Single Greatest Headline. Chartbeat Blog. Nov. 2015. [Article](http://blog.chartbeat.com/2015/11/20/youll-never-guess-how-chartbeats-data-scientists-came-up-with-the-single-greatest-headline/)
   - T. Fisher. Do Visual Stories Make People Care? NPR Visuals Blog. Nov. 2015. [Article](http://blog.apps.npr.org/2015/11/19/sequential-visual-stories.html)
+  - 
+- **Assignment Three DUE**
+- **Final Project Proposal DUE**
+
 
 ####April 4 - Innovating CJ Tools & Platforms####
 
