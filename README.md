@@ -164,7 +164,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - E. Tandoc Jr. and R. Thomas. The Ethics of Web Analytics. Digital Journalism, 3:2, 243-258, 2015.  [Article](http://www.tandfonline.com/doi/abs/10.1080/21670811.2014.909122#.Vnc3zOODFBc) (access on campus or via library to download PDF)
   - C. Breaux. You’ll Never Guess How Chartbeat’s Data Scientists Came Up With the Single Greatest Headline. Chartbeat Blog. Nov. 2015. [Article](http://blog.chartbeat.com/2015/11/20/youll-never-guess-how-chartbeats-data-scientists-came-up-with-the-single-greatest-headline/)
   - T. Fisher. Do Visual Stories Make People Care? NPR Visuals Blog. Nov. 2015. [Article](http://blog.apps.npr.org/2015/11/19/sequential-visual-stories.html)
-  - 
+
+
 - **Assignment Three DUE**
 - **Final Project Proposal DUE**
 
