@@ -76,7 +76,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - **779V Assignment: Research Paper Presentation Out**
   - Research Paper Presentation. [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/wiki/Research-Paper-Presentation)
 
-- ** Wed. January 27 5-8pm in Knight 3207**
+- **Wed. Jan. 27, 5-8pm in Knight 3207 **
   - Python "bootcamp": we'll gather as a group and work on the week's homework together in a collaborative atmosphere. RSVP and there will be Pizza!
   
 - Other Resources
