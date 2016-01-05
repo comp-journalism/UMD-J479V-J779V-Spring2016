@@ -68,16 +68,19 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 ###Schedule###
 ####January 25 - Introduction: Thinking Computationally####
 
-- In-class Tutorials
-
 - Homework
   - General Assembly's Command Line Tutorial [Link](http://generalassembly.github.io/prework/command-line/#/2)
-
-- Other Resources
-  - Pro Git (helpful for learning advanced Git) [Link](http://git-scm.com/book/en/v2)
+  - Python tutorial: "Variables, Strings, and Numbers" [Link](http://introtopython.org/var_string_num.html)
+  - Python tutorial: "Lists and Tuples" [Link](http://introtopython.org/lists_tuples.html)
 
 - **779V Assignment: Research Paper Presentation Out**
   - Research Paper Presentation. [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/wiki/Research-Paper-Presentation)
+
+- ** Wed. January 27 5-8pm in Knight 3207**
+  - Python "bootcamp": we'll gather as a group and work on the week's homework together in a collaborative atmosphere. RSVP and there will be Pizza!
+  
+- Other Resources
+  - Pro Git (helpful for learning advanced Git) [Link](http://git-scm.com/book/en/v2)
 
 ####February 1 - Computational and Data Journalism####
 
@@ -92,8 +95,15 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - Recommended Readings
   - C. Groskopf. The Quartz guide to bad data. [Link](https://github.com/Quartz/bad-data-guide)
   
+- Homework
+  - Python tutorial: "Introducing Functions" [Link](http://introtopython.org/introducing_functions.html)
+  - Python tutorial: "If Statements" [Link](http://introtopython.org/if_statements.html)
+  
 - **Assignment One OUT**
   - Computational and Data Journalism Critique [Link]()
+
+- ** Tues. Feb. 2, 5-8pm in Knight 3207**
+  - Python "bootcamp": we'll gather as a group and work on the week's homework together in a collaborative atmosphere. RSVP and there will be Pizza!
 
 ####February 8 - Document and Text Analytics####
 (Guest lecture by Jennifer Stark, Research Scientist at UMD Computational Journalism Lab)
@@ -102,7 +112,13 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - C. Felix, A. Vikram Pandey, E. Bertini, C. Ornstein and S. Klein. RevEx: Visual Investigative Journalism with A Million Healthcare Reviews. Symposium on Computation + Journalism. 2015. [PDF](http://cj2015.brown.columbia.edu/papers/revex.pdf) | [ProPublica Article](http://www.propublica.org/article/stay-far-far-away-and-other-things-gleaned-from-yelp-health-reviews)
   - M Brehmer, S Ingram, J Stray, T Munzner. Overview: The design, adoption, and analysis of a visual document mining tool for investigative journalists. IEEE Transactions on Visualization and Computer Graphics, 20 (12), 2014. [PDF] 
 
+- Homework
+  - Python tutorial: "While loops and Input" [Link](http://introtopython.org/while_input.html)
+  
 - **779V Assignment: Research Paper Selection DUE**
+
+- ** Tues. Feb. 9, 5-8pm in Knight 3207**
+  - Python "bootcamp": we'll gather as a group and work on the week's homework together in a collaborative atmosphere. RSVP and there will be Pizza!
 
 ####February 15 - Social Media Analytics####
 
