@@ -66,7 +66,7 @@ All assignments and projects are due at the start of the class unless otherwise 
 Assignments will be marked down by one full letter grade for every 24 hours (or fraction thereof) that the assignment is late past the posted deadline. For example, an assignment that would normally receive an A- if submitted on time would receive a B- if it was submitted 1 hour (or 23 hours) late. Assignments more than five days late will not be accepted. Work that is not turned in will receive zero points. In extreme cases (such as a death in the family, or severe illness), an extension may be granted, but students must communicate with the professor in advance of the deadline in these cases. 
 
 ###Schedule###
-####January 25 - Introduction: Thinking Computationally####
+###January 25 - Introduction: Thinking Computationally###
 
 - Homework OUT
   - General Assembly's Command Line Tutorial [Link](http://generalassembly.github.io/prework/command-line/#/2)
@@ -82,7 +82,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - Other Resources
   - Pro Git (helpful for learning advanced Git) [Link](http://git-scm.com/book/en/v2)
 
-####February 1 - Computational and Data Journalism####
+###February 1 - Computational and Data Journalism###
 
 - Readings due:
   - M. Coddington. Clarifying Journalism’s Quantitative Turn: A Typology for Evaluating Data Journalism, Computational Journalism, and Computer-Assisted Reporting. Digital Journalism, 3(3), 331–348. 2015. [Article](http://www.tandfonline.com/doi/abs/10.1080/21670811.2014.976400) (access on campus or via library to download PDF)
