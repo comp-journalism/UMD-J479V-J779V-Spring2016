@@ -68,7 +68,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 ###Schedule###
 ####January 25 - Introduction: Thinking Computationally####
 
-- Homework
+- Homework OUT
   - General Assembly's Command Line Tutorial [Link](http://generalassembly.github.io/prework/command-line/#/2)
   - Python tutorial: "Variables, Strings, and Numbers" [Link](http://introtopython.org/var_string_num.html)
   - Python tutorial: "Lists and Tuples" [Link](http://introtopython.org/lists_tuples.html)
@@ -95,14 +95,14 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - Recommended Readings
   - C. Groskopf. The Quartz guide to bad data. [Link](https://github.com/Quartz/bad-data-guide)
   
-- Homework
+- Homework OUT
   - Python tutorial: "Introducing Functions" [Link](http://introtopython.org/introducing_functions.html)
   - Python tutorial: "If Statements" [Link](http://introtopython.org/if_statements.html)
   
 - **Assignment One OUT**
   - Computational and Data Journalism Critique [Link]()
 
-- ** Tues. Feb. 2, 5-8pm in Knight 3207**
+- **Tues. Feb. 2, 5-8pm in Knight 3207**
   - Python "bootcamp": we'll gather as a group and work on the week's homework together in a collaborative atmosphere. RSVP and there will be Pizza!
 
 ####February 8 - Document and Text Analytics####
