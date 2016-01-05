@@ -106,7 +106,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - **Tues. Feb. 2, 5-8pm in Knight 3207**
   - Python "bootcamp": we'll gather as a group and work on the week's homework together in a collaborative atmosphere. RSVP and there will be Pizza!
 
-####February 8 - Document and Text Analytics####
+###February 8 - Document and Text Analytics###
 (Guest lecture by Jennifer Stark, Research Scientist at UMD Computational Journalism Lab)
 
 - Readings due: 
@@ -121,7 +121,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - **Tues. Feb. 9, 5-8pm in Knight 3207**
   - Python "bootcamp": we'll gather as a group and work on the week's homework together in a collaborative atmosphere. RSVP and there will be Pizza!
 
-####February 15 - Social Media Analytics####
+###February 15 - Social Media Analytics###
 
 - Readings due: 
   - N. Diakopoulos, M. De Choudhury, M. Naaman. Finding and Assessing Social Media Information Sources in the Context of Journalism. Conference on Human Factors in Computing Systems (CHI). May, 2012. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/SRSR-diakopoulos.pdf)
@@ -133,7 +133,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 - **Assignment Two OUT**
 
-####February 22 - Automated News Production####
+###February 22 - Automated News Production###
 
 - Readings due:
   - M. Carlson. The Robotic Reporter: Automated Journalism and the Redefinition of Labor, Compositional Forms, and Journalistic Authority. Digital Journalism. 2014. [Article](http://www.tandfonline.com/doi/abs/10.1080/21670811.2014.976412?journalCode=rdij20#.VnV3feODFBc) (access on campus or via library to download PDF)
@@ -141,7 +141,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - N. Diakopoulos. The Anatomy of a Robot Journalist. Tow Center. July 2014. [Link](http://towcenter.org/the-anatomy-of-a-robot-journalist/)
   - S. Wang. The New York Times built a Slack bot to help decide which stories to post to social media. Nieman Lab. Aug 2015. [Link](http://www.niemanlab.org/2015/08/the-new-york-times-built-a-slack-bot-to-help-decide-which-stories-to-post-to-social-media/)
 
-####February 29 - Simulation, Predicton, and Modeling####
+###February 29 - Simulation, Predicton, and Modeling###
 
 - Readings due:
   - N. Silver. The Signal and the Noise. Penguin Books. 2012. 
@@ -154,7 +154,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 - **Assignment Three OUT**
 
-####March 7 - Algorithmic Accountability & Transparency####
+###March 7 - Algorithmic Accountability & Transparency###
 
 - Readings due:
   - N. Diakopoulos. Algorithmic Accountability: Journalistic Investigation of Computational Power Structures. Digital Journalism. 2015. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/algorithmic_accountability_final.pdf)
@@ -164,9 +164,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - **Final Project Proposal OUT**
 
 
-####March 14 - Spring break, no class!####
+###March 14 - Spring break, no class!###
 
-####March 21 - Algorithmic Curation & Personalization####
+###March 21 - Algorithmic Curation & Personalization###
 
 - Readings due: 
   - E. Bozdag. Bias in algorithmic filtering and personalization. Ethics and Information Technology 15, 3 (2013), 209–227 [PDF](https://www.researchgate.net/profile/Engin_Bozdag/publication/274633438_etin-final/links/5523d18f0cf2c815e0732a14.pdf)
@@ -174,7 +174,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - A. Spangher. Building the Next New York Times Recommendation Engine. NYT Open Blog. Aug. 2015 [Article](http://open.blogs.nytimes.com/2015/08/11/building-the-next-new-york-times-recommendation-engine/)
   - Y. Oren. Flipboard's Approach to Automatic Summarization. Oct. 2014. [Post](http://engineering.flipboard.com/2014/10/summarization/)
 
-####March 28 - Content Analytics & Impact####
+###March 28 - Content Analytics & Impact###
 
 - Readings due:
   - C. Castillo, et al. Characterizing the life cycle of online news stories using social media reactions. Proc. Conference on Computer Supported Cooperative Work & Social Computing (CSCW). 2014. [PDF](http://chato.cl/papers/castillo_elhaddad_pfeffer_stempeck_2013_news_lifecycle.pdf)
@@ -187,7 +187,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - **Final Project Proposal DUE**
 
 
-####April 4 - Innovating CJ Tools & Platforms####
+###April 4 - Innovating CJ Tools & Platforms###
 
 (Guest Lecture by Angela Wong, Digital Product Analyst at Washington Post)
 
@@ -196,11 +196,11 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
  - N. Diakopoulos. Cultivating the Landscape of Innovation in Computational Journalism. Tow-Knight Center for Entrepreneurial Journalism. April, 2012. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2012/05/diakopoulos_whitepaper_systematicinnovation.pdf)
  - D.G. Park, S. Singh, N. Diakopoulos, N. Elmqvist. Interactive Identification of High Quality Online News Comments. Proc. Conference on Human Factors in Computing Systems (CHI). 2016. [PDF]
 
-####April 11 - Research Paper Presentations & Project work####
+###April 11 - Research Paper Presentations & Project work###
 
-####April 18 - Class feedback on final projects####
+###April 18 - Class feedback on final projects###
 
-####April 25 - Emerging Technology: Drones & Sensors####
+###April 25 - Emerging Technology: Drones & Sensors###
 
 - Readings due:
   - M. Tremayne and A. Clark. New Perspectives from the Sky: Unmanned Aerial Vehicles and Journalism. Digital Journalism 2 (2). 2014.  [Article](http://www.tandfonline.com/doi/abs/10.1080/21670811.2013.805039) (access on campus or via library to download PDF)
@@ -208,5 +208,5 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - F. Pitt. "USA Today - Ghost Factories" (pages 73 - 82). In: Sensors and Journalism. Tow Center Report. 2014. [PDF](http://towcenter.org/wp-content/uploads/2014/05/Tow-Center-Sensors-and-Journalism.pdf) | [Original USA Today Package](http://usatoday30.usatoday.com/news/nation/smelting-lead-contamination#)
   - L. Bui. A (Working) Typology of Sensor Journalism Projects. Oct. 2014.  [Post](http://cmsw.mit.edu/working-typology-sensor-journalism-projects/)
 
-####May 2 - In Class Final project presentations####
+###May 2 - In Class Final project presentations###
 
