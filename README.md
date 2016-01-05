@@ -65,7 +65,9 @@ All assignments and projects are due at the start of the class unless otherwise 
 #####Late Work Policy#####
 Assignments will be marked down by one full letter grade for every 24 hours (or fraction thereof) that the assignment is late past the posted deadline. For example, an assignment that would normally receive an A- if submitted on time would receive a B- if it was submitted 1 hour (or 23 hours) late. Assignments more than five days late will not be accepted. Work that is not turned in will receive zero points. In extreme cases (such as a death in the family, or severe illness), an extension may be granted, but students must communicate with the professor in advance of the deadline in these cases. 
 
-###Schedule###
+---
+
+##Schedule##
 ###January 25 - Introduction: Thinking Computationally###
 
 - Homework OUT
