@@ -107,7 +107,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Python "bootcamp": we'll gather as a group and work on the week's homework together in a collaborative atmosphere. RSVP and there will be Pizza!
 
 ###February 8 - Document and Text Analytics###
-(Guest lecture by Jennifer Stark, Research Scientist at UMD Computational Journalism Lab)
+(Guest lecture by Dr. Jennifer Stark, Research Scientist at UMD Computational Journalism Lab)
 
 - Readings due: 
   - C. Felix, A. Vikram Pandey, E. Bertini, C. Ornstein and S. Klein. RevEx: Visual Investigative Journalism with A Million Healthcare Reviews. Symposium on Computation + Journalism. 2015. [PDF](http://cj2015.brown.columbia.edu/papers/revex.pdf) | [ProPublica Article](http://www.propublica.org/article/stay-far-far-away-and-other-things-gleaned-from-yelp-health-reviews)
