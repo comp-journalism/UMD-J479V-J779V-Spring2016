@@ -194,7 +194,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - Readings due:
  - N. Diakopoulos. Computational Journalism and the Emergence of News Platforms. The Routledge Companion to Digital Journalism Studies. Eds. Scott Eldridge II and Bob Franklin. June, 2016. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/Computational-Journalism-and-the-Emergence-of-News-Platforms.pdf)
  - N. Diakopoulos. Cultivating the Landscape of Innovation in Computational Journalism. Tow-Knight Center for Entrepreneurial Journalism. April, 2012. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2012/05/diakopoulos_whitepaper_systematicinnovation.pdf)
- - D.G. Park, S. Singh, N. Diakopoulos, N. Elmqvist. Interactive Identification of High Quality Online News Comments. Proc. Conference on Human Factors in Computing Systems (CHI). 2016. [PDF]
+ - D.G. Park, S. Singh, N. Diakopoulos, N. Elmqvist. Interactive Identification of High Quality Online News Comments. Proc. Conference on Human Factors in Computing Systems (CHI). 2016. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/CommentIQ-CHI2016-Final-Version.pdf)
 
 ###April 11 - Research Paper Presentations & Project work###
 
