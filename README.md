@@ -8,7 +8,7 @@
 **Course Website:** https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016
 
 ####Course Description####
-This course explores the conceptualization and application of computational and data-driven approaches to journalism practice. Students will examine computational approaches to journalistic data gathering, curation, sensemaking, presentation, and dissemination and learn to apply methods such as text analysis, natural language generation, social computing, simulation, machine learning, and algorithmic accountability among others. 
+This course explores the conceptualization and application of computational and data-driven approaches to journalism practice. Students will examine how computational techniques are changing journalistic data gathering, curation, sensemaking, presentation, dissemination, and analytics of content. Methods from text analysis, social computing, automated news production, simulation / prediction / modeling, algorithmic accountability, and content analytics will be applied to real journalistic scenarios. Several assignments, both critical and creative in nature, as well as an integrative final project will serve to underscore the concepts taught and provide practice in producing artifacts of computational journalism. 
 
 ####Learning Goals and Objectives####
 By the end of the course students should expect to have gained:
@@ -111,7 +111,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 - Readings due: 
   - C. Felix, A. Vikram Pandey, E. Bertini, C. Ornstein and S. Klein. RevEx: Visual Investigative Journalism with A Million Healthcare Reviews. Symposium on Computation + Journalism. 2015. [PDF](http://cj2015.brown.columbia.edu/papers/revex.pdf) | [ProPublica Article](http://www.propublica.org/article/stay-far-far-away-and-other-things-gleaned-from-yelp-health-reviews)
-  - M Brehmer, S Ingram, J Stray, T Munzner. Overview: The design, adoption, and analysis of a visual document mining tool for investigative journalists. IEEE Transactions on Visualization and Computer Graphics, 20 (12), 2014. [PDF] 
+  - M Brehmer, S Ingram, J Stray, T Munzner. Overview: The design, adoption, and analysis of a visual document mining tool for investigative journalists. IEEE Transactions on Visualization and Computer Graphics, 20 (12), 2014. [Article](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6875900&tag=1) (access on campus or via library to download PDF)
 
 - **Homework OUT**
   - Python tutorial: "While loops and Input" [Link](http://introtopython.org/while_input.html)
