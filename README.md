@@ -21,7 +21,8 @@ By the end of the course students should expect to have gained:
 - A university statistics course, or permission of the instructor
 
 ####Textbook and readings####
-- There is no single textbook for the course. Readings will draw on a wide range of texts including books, articles, and research papers. Copyrighted readings may be linked to the syllabus but hosted on UMD's ELMS so you may need to log in there to download PDFs. Since readings may be updated over the course of the semester please check the online schedule on a weekly basis in order to get that week’s readings.
+- There is no single textbook for the course. Readings will draw on a wide range of texts including books, articles, and research papers. Copyrighted readings may be linked to the syllabus you many need to access the PDF via the library, or by following the link from a computer on campus (which will automatically authenticate and give you access). Since readings may be updated over the course of the semester please check the online schedule on a weekly basis in order to get that week’s readings.
+- A recommended text for the skills aspects of the course is: Pythong for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython. [Amazon Link](http://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793]
 
 ####Other Resources####
 - Computational Journalism Course @ Georgia Tech [Link](https://compjournalism.wordpress.com/)
