@@ -69,7 +69,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 ##Schedule##
 ###January 25 - Introduction: Thinking Computationally###
-
+- In class tutorials:
+  - 
+  
 - **Homework OUT**
   - General Assembly's Command Line Tutorial [Link](http://generalassembly.github.io/prework/command-line/#/2)
   - Python tutorial: "Variables, Strings, and Numbers" [Link](http://introtopython.org/var_string_num.html)
@@ -80,14 +82,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 - **Wed. Jan. 27, 5-8pm in Knight 3207**
   - Python "bootcamp": we'll gather as a group and work on the week's homework together in a collaborative atmosphere. RSVP and there will be Pizza!
-  
-- Other Resources
-  - Pro Git (helpful for learning advanced Git) [Link](http://git-scm.com/book/en/v2)
+
 
 ###February 1 - Computational and Data Journalism###
-- In class tutorials:
-  - Loading, Manipulating, and Visualizing Data with Pandas. [Loading Notebook]() | [Manipulating Notebook]() | [Visualization Notebook]()
-
 - Readings due:
   - M. Coddington. Clarifying Journalism’s Quantitative Turn: A Typology for Evaluating Data Journalism, Computational Journalism, and Computer-Assisted Reporting. Digital Journalism, 3(3), 331–348. 2015. [Article](http://www.tandfonline.com/doi/abs/10.1080/21670811.2014.976400) (access on campus or via library to download PDF)
   - N. Silver. What the Fox Knows. Five Thirty Eight. March, 2014. [Article](http://fivethirtyeight.com/features/what-the-fox-knows/)
@@ -98,6 +95,12 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 - Recommended Readings due:
   - C. Groskopf. The Quartz guide to bad data. [Link](https://github.com/Quartz/bad-data-guide)
+  
+- In class tutorials:
+  - Loading, Manipulating, and Visualizing Data with Pandas. [Loading Notebook]() | [Manipulating Notebook]() | [Visualization Notebook]()
+
+- Helpful resources:
+  - Markdown Basics [Link](https://help.github.com/articles/markdown-basics/)
   
 - **Homework OUT**
   - Python tutorial: "Introducing Functions" [Link](http://introtopython.org/introducing_functions.html)
