@@ -85,6 +85,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Pro Git (helpful for learning advanced Git) [Link](http://git-scm.com/book/en/v2)
 
 ###February 1 - Computational and Data Journalism###
+- In class tutorial
+  - Loading, Manipulating, and Visualizing Data with Pandas. [Loading Notebook]() | [Manipulating Notebook]() | [Visualization Notebook]()
 
 - Readings due:
   - M. Coddington. Clarifying Journalism’s Quantitative Turn: A Typology for Evaluating Data Journalism, Computational Journalism, and Computer-Assisted Reporting. Digital Journalism, 3(3), 331–348. 2015. [Article](http://www.tandfonline.com/doi/abs/10.1080/21670811.2014.976400) (access on campus or via library to download PDF)
@@ -94,12 +96,13 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - P. Guo. Data Science Workflow: Overview and Challenges. CACM Blog. Oct. 2013.  [Post](http://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext)
   - J. Singer-Vine. What we’ve learned about sharing our data analysis. Source. Aug. 2015. [Article](https://source.opennews.org/en-US/articles/what-weve-learned-about-sharing-our-data-analysis/) | [Original Buzzfeed Article](http://www.buzzfeed.com/jessicagarrison/the-new-american-slavery-invited-to-the-us-foreign-workers-f#.fcZmbkvQO)
 
-- Recommended Readings
+- Recommended Readings due:
   - C. Groskopf. The Quartz guide to bad data. [Link](https://github.com/Quartz/bad-data-guide)
   
 - **Homework OUT**
   - Python tutorial: "Introducing Functions" [Link](http://introtopython.org/introducing_functions.html)
   - Python tutorial: "If Statements" [Link](http://introtopython.org/if_statements.html)
+  - Pandas background: "10 Minutes to pandas" [Link](http://pandas.pydata.org/pandas-docs/stable/10min.html)
   
 - **Assignment One OUT**
   - Computational and Data Journalism Critique [Link]()
