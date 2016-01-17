@@ -85,7 +85,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Pro Git (helpful for learning advanced Git) [Link](http://git-scm.com/book/en/v2)
 
 ###February 1 - Computational and Data Journalism###
-- In class tutorial
+- In class tutorials:
   - Loading, Manipulating, and Visualizing Data with Pandas. [Loading Notebook]() | [Manipulating Notebook]() | [Visualization Notebook]()
 
 - Readings due:
