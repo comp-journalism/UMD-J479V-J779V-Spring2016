@@ -25,7 +25,7 @@ By the end of the course students should expect to have gained:
 - A recommended text for the skills aspects of the course is: *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython*, by Wes McKinney [Amazon Link](http://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793)
 
 ####Other Resources####
-- Computational Journalism Course @ Georgia Tech [Link](https://compjournalism.wordpress.com/)
+- Computational Journalism Course @ Georgia Tech [Current Class](https://github.com/jacobeisenstein/gt-compj-class) | [Previous offerings](https://compjournalism.wordpress.com/)
 - Computational Journalism Course @ Columbia [Link](http://www.compjournalism.com/)
 - Computational Journalism Course @ Stanford [Link](http://www.compjour.org/)
 - Symposium on Computation + Journalism [2015](http://cj2015.brown.columbia.edu/)
