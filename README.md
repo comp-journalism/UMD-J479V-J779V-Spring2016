@@ -69,11 +69,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 ##Schedule##
 ###January 25 - Introduction: Thinking Computationally###
-- In class tutorials:
-  - 
-  
+
 - **Homework OUT**
-  - General Assembly's Command Line Tutorial [Link](http://generalassembly.github.io/prework/command-line/#/2)
   - Python tutorial: "Variables, Strings, and Numbers" [Link](http://introtopython.org/var_string_num.html)
   - Python tutorial: "Lists and Tuples" [Link](http://introtopython.org/lists_tuples.html)
 
