@@ -59,7 +59,7 @@ All assignments and projects are due at the start of the class unless otherwise 
 - *Final Project Proposal (10%)*
   - You will develop a final project that utilizes the knowledge you acquire throughout the semester in an investigation of an algorithmic system. Your project proposal will describe what you intend to investigate including the data you will collect and how you plan to analyze it for something newsworthy. 
 - *Final Project (25%)*
-  - Your final project should demonstrate that you have integrated the knowledge you acquire in this class. Your grade will incorporate aspects of accuracy, critical and analytic rigor, clarity and newsworthiness of the story you tell, and how much your project has improved through various stages of iteration, criticism, and improvement since the initial project proposal.
+  - Your final project should demonstrate that you have integrated the knowledge you acquire in this class. Your grade will incorporate aspects of accuracy, critical and analytic rigor, clarity and newsworthiness of the story you tell, and how much your project has improved through various stages of iteration and criticism since the initial project proposal.
 - *Class Participation (20%)*
   - Students are expected to read and engage with the assigned texts, and to be prepared to discuss those texts critically. In class you will be assessed according to the insightfulness of contributions, critiques, and questions you raise during class discussion.
 
