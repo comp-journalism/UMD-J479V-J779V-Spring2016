@@ -144,6 +144,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - M. Carlson. The Robotic Reporter: Automated Journalism and the Redefinition of Labor, Compositional Forms, and Journalistic Authority. Digital Journalism. 2014. [Article](http://www.tandfonline.com/doi/abs/10.1080/21670811.2014.976412?journalCode=rdij20#.VnV3feODFBc) (access on campus or via library to download PDF)
   - A. Graef. Guide to Automated Journalism. Tow Center Report. Jan. 2016. [PDF](https://www.gitbook.com/download/pdf/book/towcenter/guide-to-automated-journalism)
   - T. Lokot and N. Diakopoulos. News Bots: Automating News and Information Dissemination on Twitter. Digital Journalism. 2016. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/newsbots_final.pdf)
+  - C. LeCompte. Automation in the Newsroom. Nieman Reports. Sept, 2015. [Article](http://niemanreports.org/articles/automation-in-the-newsroom/)
   - S. Wang. The New York Times built a Slack bot to help decide which stories to post to social media. Nieman Lab. Aug 2015. [Link](http://www.niemanlab.org/2015/08/the-new-york-times-built-a-slack-bot-to-help-decide-which-stories-to-post-to-social-media/)
 
 ###February 29 - Simulation, Predicton, and Modeling###
