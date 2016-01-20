@@ -62,6 +62,7 @@ All assignments and projects are due at the start of the class unless otherwise 
   - Your final project should demonstrate that you have integrated the knowledge you acquire in this class. Your grade will incorporate aspects of accuracy, critical and analytic rigor, clarity and newsworthiness of the story you tell, and how much your project has improved through various stages of iteration and criticism since the initial project proposal.
 - *Class Participation (20%)*
   - Students are expected to read and engage with the assigned texts, and to be prepared to discuss those texts critically. In class you will be assessed according to the insightfulness of contributions, critiques, and questions you raise during class discussion.
+  - To show that you are prepared to discuss an assigned article, you should prepare at least one question based on your reading. 
 
 #####Late Work Policy#####
 Assignments will be marked down by one full letter grade for every 24 hours (or fraction thereof) that the assignment is late past the posted deadline. For example, an assignment that would normally receive an A- if submitted on time would receive a B- if it was submitted 1 hour (or 23 hours) late. Assignments more than five days late will not be accepted. Work that is not turned in will receive zero points. In extreme cases (such as a death in the family, or severe illness), an extension may be granted, but students must communicate with the professor in advance of the deadline in these cases. 
