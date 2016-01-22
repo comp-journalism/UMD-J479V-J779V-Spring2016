@@ -69,7 +69,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 
 ##Schedule##
-###January 25 - Introduction: Thinking Computationally###
+###January 25 - Introduction to Computational Journalism: Thinking Computationally###
 
 - **Homework OUT**
   - Python tutorial: "Variables, Strings, and Numbers" [Link](http://introtopython.org/var_string_num.html)
