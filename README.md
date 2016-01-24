@@ -70,7 +70,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 ##Schedule##
 ###January 25 - Introduction to Computational Journalism: Thinking Computationally###
-- **Lecture Slides** [PPT](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/raw/master/Weekly/Week_1/1_Intro_computational_thinking.pptx)
+- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/raw/master/Weekly/Week_1/1_Intro_computational_thinking.pptx)
 
 - **Homework OUT**
   - Python tutorial: "Variables, Strings, and Numbers" [Link](http://introtopython.org/var_string_num.html)
