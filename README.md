@@ -96,7 +96,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - C. Groskopf. The Quartz guide to bad data. [Link](https://github.com/Quartz/bad-data-guide)
   
 - In class tutorials:
-  - Loading, Manipulating, and Visualizing Data with Pandas. [Loading Notebook]() | [Manipulating Notebook]() | [Visualization Notebook]()
+  - Loading, Manipulating, and Visualizing Data with Pandas. [Loading Notebook](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Week_2/Loading-Data-in-Pandas.ipynb) | [Manipulating Notebook](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Week_2/Manipulating-data-in-Pandas.ipynb) | [Visualization Notebook](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Week_2/Basic-visualization-in-pandas.ipynb)
 
 - Helpful resources:
   - Markdown Basics [Link](https://help.github.com/articles/markdown-basics/)
