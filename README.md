@@ -104,7 +104,6 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - **Homework OUT**
   - Python tutorial: "Introducing Functions" [Link](http://introtopython.org/introducing_functions.html)
   - Python tutorial: "If Statements" [Link](http://introtopython.org/if_statements.html)
-  - Pandas background: "10 Minutes to pandas" [Link](http://pandas.pydata.org/pandas-docs/stable/10min.html)
   
 - **Assignment One OUT**
   - Computational and Data Journalism Critique [Link]()
@@ -121,6 +120,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 - **Homework OUT**
   - Python tutorial: "While loops and Input" [Link](http://introtopython.org/while_input.html)
+  - Pandas background: "10 Minutes to pandas" [Link](http://pandas.pydata.org/pandas-docs/stable/10min.html)
   
 - **779V Assignment: Research Paper Selection DUE**
 
