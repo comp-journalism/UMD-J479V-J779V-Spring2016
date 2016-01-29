@@ -106,7 +106,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Python tutorial: "If Statements" [Link](http://introtopython.org/if_statements.html)
   
 - **Assignment One OUT**
-  - Computational and Data Journalism Critique [Link]()
+  - Computational and Data Journalism Critique [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Asgn1/computational-data-journalism-critique.md)
 
 - **Tues. Feb. 2, 5-8pm in Knight 3207**
   - Python "bootcamp": we'll gather as a group and work on the week's homework together in a collaborative atmosphere. RSVP and there will be Pizza!
