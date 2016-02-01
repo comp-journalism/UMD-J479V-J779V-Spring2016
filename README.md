@@ -86,7 +86,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 ###February 1 - Computational and Data Journalism###
 - Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/raw/master/Weekly/Week_2/2_computational_data_journalism.pptx)
 
-- Readings due:
+- Readings DUE:
   - M. Coddington. Clarifying Journalism’s Quantitative Turn: A Typology for Evaluating Data Journalism, Computational Journalism, and Computer-Assisted Reporting. Digital Journalism, 3(3), 331–348. 2015. [Article](http://www.tandfonline.com/doi/abs/10.1080/21670811.2014.976400) (access on campus or via library to download PDF)
   - N. Silver. What the Fox Knows. Five Thirty Eight. March, 2014. [Article](http://fivethirtyeight.com/features/what-the-fox-knows/)
   - A. Cairo. Data journalism needs to up its own standards. Nieman Lab. July, 2014. [Article](http://www.niemanlab.org/2014/07/alberto-cairo-data-journalism-needs-to-up-its-own-standards/)
@@ -94,7 +94,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - P. Guo. Data Science Workflow: Overview and Challenges. CACM Blog. Oct. 2013.  [Post](http://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext)
   - J. Singer-Vine. What we’ve learned about sharing our data analysis. Source. Aug. 2015. [Article](https://source.opennews.org/en-US/articles/what-weve-learned-about-sharing-our-data-analysis/) | [Original Buzzfeed Article](http://www.buzzfeed.com/jessicagarrison/the-new-american-slavery-invited-to-the-us-foreign-workers-f#.fcZmbkvQO)
 
-- Recommended Readings due:
+- Recommended Readings DUE:
   - C. Groskopf. The Quartz guide to bad data. [Link](https://github.com/Quartz/bad-data-guide)
   
 - In class tutorials:
@@ -116,7 +116,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 ###February 8 - Document and Text Analytics###
 (Guest lecture by Dr. Jennifer Stark, Research Scientist at UMD Computational Journalism Lab)
 
-- Readings due: 
+- Readings DUE: 
   - C. Felix, A. Vikram Pandey, E. Bertini, C. Ornstein and S. Klein. RevEx: Visual Investigative Journalism with A Million Healthcare Reviews. Symposium on Computation + Journalism. 2015. [PDF](http://cj2015.brown.columbia.edu/papers/revex.pdf) | [ProPublica Article](http://www.propublica.org/article/stay-far-far-away-and-other-things-gleaned-from-yelp-health-reviews)
   - M Brehmer, S Ingram, J Stray, T Munzner. Overview: The design, adoption, and analysis of a visual document mining tool for investigative journalists. IEEE Transactions on Visualization and Computer Graphics, 20 (12), 2014. [Article](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6875900&tag=1) (access on campus or via library to download PDF)
 
@@ -131,7 +131,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 ###February 15 - Social Media Analytics###
 
-- Readings due: 
+- Readings DUE: 
   - N. Diakopoulos, M. De Choudhury, M. Naaman. Finding and Assessing Social Media Information Sources in the Context of Journalism. Conference on Human Factors in Computing Systems (CHI). May, 2012. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/SRSR-diakopoulos.pdf)
   - R. Schwartz, M. Naaman, R. Teodoro. Editorial Algorithms: Using Social Media to Discover and Report Local News. Proc. International Conference on Web and Social Media. 2015. [PDF](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/view/10593/10523)
   - A. Fitts. The new importance of ‘social listening’ tools. Columbia Journalism Review. July / August 2015. [Article](http://www.cjr.org/analysis/the_new_importance_of_social_listening_tools.php)
@@ -146,7 +146,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 ###February 22 - Automated News Production###
 
-- Readings due:
+- Readings DUE:
   - M. Carlson. The Robotic Reporter: Automated Journalism and the Redefinition of Labor, Compositional Forms, and Journalistic Authority. Digital Journalism. 2014. [Article](http://www.tandfonline.com/doi/abs/10.1080/21670811.2014.976412?journalCode=rdij20#.VnV3feODFBc) (access on campus or via library to download PDF)
   - A. Graef. Guide to Automated Journalism. Tow Center Report. Jan. 2016. [PDF](https://www.gitbook.com/download/pdf/book/towcenter/guide-to-automated-journalism)
   - T. Lokot and N. Diakopoulos. News Bots: Automating News and Information Dissemination on Twitter. Digital Journalism. 2016. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/newsbots_final.pdf)
@@ -155,7 +155,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 ###February 29 - Simulation, Predicton, and Modeling###
 
-- Readings due:
+- Readings DUE:
   - N. Silver. The Signal and the Noise. Penguin Books. 2012. 
     - Chapter 4: For years you've been telling us that rain is green. [PDF]
     - Chapter 7: Role models. [PDF]
@@ -168,7 +168,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 ###March 7 - Algorithmic Accountability & Transparency###
 
-- Readings due:
+- Readings DUE:
   - N. Diakopoulos. Algorithmic Accountability: Journalistic Investigation of Computational Power Structures. Digital Journalism. 2015. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/algorithmic_accountability_final.pdf)
   - J. Valentino-Devries,  J. Singer-Vine, A. Soltani. Websites Vary Prices, Deals Based on Users' Information. Wall Street Journal. Dec. 2012. [Article is top link here](https://www.google.com/#safe=off&q=Websites+Vary+Prices%2C+Deals+Based+on+Users%27+Information)
   - N. Diakopoulos. How Uber surge pricing really works. Washington Post. April, 2015. [Link](https://www.washingtonpost.com/news/wonk/wp/2015/04/17/how-uber-surge-pricing-really-works/)
@@ -180,7 +180,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 ###March 21 - Algorithmic Curation & Personalization###
 
-- Readings due: 
+- Readings DUE: 
   - E. Bozdag. Bias in algorithmic filtering and personalization. Ethics and Information Technology 15, 3 (2013), 209–227 [PDF](https://www.researchgate.net/profile/Engin_Bozdag/publication/274633438_etin-final/links/5523d18f0cf2c815e0732a14.pdf)
   - M. Sifry. Facebook Wants You to Vote on Tuesday. Here's How It Messed With Your Feed in 2012. Mother Jones. Oct. 2014. [Article](http://www.motherjones.com/politics/2014/10/can-voting-facebook-button-improve-voter-turnout)
   - A. Spangher. Building the Next New York Times Recommendation Engine. NYT Open Blog. Aug. 2015 [Article](http://open.blogs.nytimes.com/2015/08/11/building-the-next-new-york-times-recommendation-engine/)
@@ -188,7 +188,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 ###March 28 - Content Analytics & Impact###
 
-- Readings due:
+- Readings DUE:
   - C. Castillo, et al. Characterizing the life cycle of online news stories using social media reactions. Proc. Conference on Computer Supported Cooperative Work & Social Computing (CSCW). 2014. [PDF](http://chato.cl/papers/castillo_elhaddad_pfeffer_stempeck_2013_news_lifecycle.pdf)
   - E. Tandoc Jr. and R. Thomas. The Ethics of Web Analytics. Digital Journalism, 3:2, 243-258, 2015.  [Article](http://www.tandfonline.com/doi/abs/10.1080/21670811.2014.909122#.Vnc3zOODFBc) (access on campus or via library to download PDF)
   - C. Breaux. You’ll Never Guess How Chartbeat’s Data Scientists Came Up With the Single Greatest Headline. Chartbeat Blog. Nov. 2015. [Article](http://blog.chartbeat.com/2015/11/20/youll-never-guess-how-chartbeats-data-scientists-came-up-with-the-single-greatest-headline/)
@@ -203,7 +203,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 (Guest Lecture by Angela Wong, Digital Product Analyst at Washington Post)
 
-- Readings due:
+- Readings DUE:
  - N. Diakopoulos. Computational Journalism and the Emergence of News Platforms. The Routledge Companion to Digital Journalism Studies. Eds. Scott Eldridge II and Bob Franklin. June, 2016. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/Computational-Journalism-and-the-Emergence-of-News-Platforms.pdf)
  - N. Diakopoulos. Cultivating the Landscape of Innovation in Computational Journalism. Tow-Knight Center for Entrepreneurial Journalism. April, 2012. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2012/05/diakopoulos_whitepaper_systematicinnovation.pdf)
  - D.G. Park, S. Singh, N. Diakopoulos, N. Elmqvist. Interactive Identification of High Quality Online News Comments. Proc. Conference on Human Factors in Computing Systems (CHI). 2016. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/CommentIQ-CHI2016-Final-Version.pdf)
@@ -214,7 +214,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 ###April 25 - Emerging Technology: Drones & Sensors###
 
-- Readings due:
+- Readings DUE:
   - M. Tremayne and A. Clark. New Perspectives from the Sky: Unmanned Aerial Vehicles and Journalism. Digital Journalism 2 (2). 2014.  [Article](http://www.tandfonline.com/doi/abs/10.1080/21670811.2013.805039) (access on campus or via library to download PDF)
   - A Code of Ethics for Drone Journalists. Professional Society of Drone Journalists (PSDJ). [Post](http://www.dronejournalism.org/code-of-ethics)
   - F. Pitt. "USA Today - Ghost Factories" (pages 73 - 82). In: Sensors and Journalism. Tow Center Report. 2014. [PDF](http://towcenter.org/wp-content/uploads/2014/05/Tow-Center-Sensors-and-Journalism.pdf) | [Original USA Today Package](http://usatoday30.usatoday.com/news/nation/smelting-lead-contamination#)
