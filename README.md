@@ -84,6 +84,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 
 ###February 1 - Computational and Data Journalism###
+- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/raw/master/Weekly/Week_2/2_computational_data_journalism.pptx)
+
 - Readings due:
   - M. Coddington. Clarifying Journalism’s Quantitative Turn: A Typology for Evaluating Data Journalism, Computational Journalism, and Computer-Assisted Reporting. Digital Journalism, 3(3), 331–348. 2015. [Article](http://www.tandfonline.com/doi/abs/10.1080/21670811.2014.976400) (access on campus or via library to download PDF)
   - N. Silver. What the Fox Knows. Five Thirty Eight. March, 2014. [Article](http://fivethirtyeight.com/features/what-the-fox-knows/)
