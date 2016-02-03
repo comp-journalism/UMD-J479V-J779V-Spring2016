@@ -120,6 +120,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - C. Felix, A. Vikram Pandey, E. Bertini, C. Ornstein and S. Klein. RevEx: Visual Investigative Journalism with A Million Healthcare Reviews. Symposium on Computation + Journalism. 2015. [PDF](http://cj2015.brown.columbia.edu/papers/revex.pdf) | [ProPublica Article](http://www.propublica.org/article/stay-far-far-away-and-other-things-gleaned-from-yelp-health-reviews)
   - M Brehmer, S Ingram, J Stray, T Munzner. Overview: The design, adoption, and analysis of a visual document mining tool for investigative journalists. IEEE Transactions on Visualization and Computer Graphics, 20 (12), 2014. [Article](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6875900&tag=1) (access on campus or via library to download PDF)
 
+- In class tutorials:
+  - Text Analysis [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Week_3/text-analysis.ipynb)
+
 - **Homework OUT**
   - Python tutorial: "While loops and Input" [Link](http://introtopython.org/while_input.html)
   - Pandas background: "10 Minutes to pandas" [Link](http://pandas.pydata.org/pandas-docs/stable/10min.html)
