@@ -129,7 +129,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   
 - **779V Assignment: Research Paper Selection DUE**
 
-- **Tues. Feb. 9, 5-8pm in Knight 3207**
+- **Wed. Feb. 10, 5-8pm in Knight 3207**
   - Python "bootcamp": we'll gather as a group and work on the week's homework together in a collaborative atmosphere. RSVP and there will be Pizza!
 
 ###February 15 - Social Media Analytics###
