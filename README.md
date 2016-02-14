@@ -143,6 +143,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - **Assignment One DUE**
 
 - **Assignment Two OUT**
+  - Reproducible Data Analysis with Jupyter. [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Asgn2/reproducible-data-analysis-jupyter.md) 
 
 - **Wed. Feb. 17, 5-8pm in Knight 3207**
   - Pandas "bootcamp": we'll gather as a group and work on learning more about the Pandas library in a collaborative atmosphere. RSVP and there will be Pizza!
