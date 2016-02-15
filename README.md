@@ -133,6 +133,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Python "bootcamp": we'll gather as a group and work on the week's homework together in a collaborative atmosphere. RSVP and there will be Pizza!
 
 ###February 15 - Social Media Analytics###
+- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Week_4/4_social_media_analytics.pptx)
 
 - Readings DUE: 
   - N. Diakopoulos, M. De Choudhury, M. Naaman. Finding and Assessing Social Media Information Sources in the Context of Journalism. Conference on Human Factors in Computing Systems (CHI). May, 2012. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/SRSR-diakopoulos.pdf)
