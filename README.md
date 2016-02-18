@@ -194,6 +194,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - A. Spangher. Building the Next New York Times Recommendation Engine. NYT Open Blog. Aug. 2015 [Article](http://open.blogs.nytimes.com/2015/08/11/building-the-next-new-york-times-recommendation-engine/)
   - Y. Oren. Flipboard's Approach to Automatic Summarization. Oct. 2014. [Post](http://engineering.flipboard.com/2014/10/summarization/)
 
+- **March 23rd Assignment Three DUE**
+
 ###March 28 - Content Analytics & Impact###
 
 - Readings DUE:
@@ -203,7 +205,6 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - T. Fisher. Do Visual Stories Make People Care? NPR Visuals Blog. Nov. 2015. [Article](http://blog.apps.npr.org/2015/11/19/sequential-visual-stories.html)
 
 
-- **Assignment Three DUE**
 - **Final Project Proposal DUE**
 
 
