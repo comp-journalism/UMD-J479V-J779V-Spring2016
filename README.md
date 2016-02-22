@@ -163,7 +163,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - S. Wang. The New York Times built a Slack bot to help decide which stories to post to social media. Nieman Lab. Aug 2015. [Link](http://www.niemanlab.org/2015/08/the-new-york-times-built-a-slack-bot-to-help-decide-which-stories-to-post-to-social-media/)
 
 - In class tutorials:
-  - Tweepy [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Week_5/Tweepy-skeleton.ipynb)
+  - Using Tweepy for Fun and Profit [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Week_5/Tweepy-skeleton.ipynb)
 
 ###February 29 - Simulation, Predicton, and Modeling###
 
