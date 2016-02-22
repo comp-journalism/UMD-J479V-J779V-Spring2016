@@ -153,6 +153,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Pandas "bootcamp": we'll gather as a group and work on learning more about the Pandas library in a collaborative atmosphere. RSVP and there will be Pizza!
 
 ###February 22 - Automated News Production###
+- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Week_5/5_automated_news_production.pptx?raw=true)
 
 - Readings DUE:
   - M. Carlson. The Robotic Reporter: Automated Journalism and the Redefinition of Labor, Compositional Forms, and Journalistic Authority. Digital Journalism. 2014. [Article](http://www.tandfonline.com/doi/abs/10.1080/21670811.2014.976412?journalCode=rdij20#.VnV3feODFBc) (access on campus or via library to download PDF)
