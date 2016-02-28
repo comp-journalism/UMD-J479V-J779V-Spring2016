@@ -180,6 +180,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 - **Assignment Two DUE**
 
 - **Assignment Three OUT**
+  - News Bot Design & Development. [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Asgn3/news-bot-design-development.md) 
 
 ###March 7 - Algorithmic Accountability & Transparency###
 
