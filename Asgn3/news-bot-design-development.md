@@ -13,7 +13,7 @@ Initially you should brainstorm some options for bots by considering the dimensi
 
 Here's an overview of the design space, though you should feel free to step outside this framework to accommodate new ideas you may have:
 
-<img src="https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Asgn3/newsbot-design.png" width = "600" style="display: block; margin-left: auto; margin-right: auto">
+<img src="https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Asgn3/newsbot-design.png" width = "600" style="display: block; margin-left: auto; margin-right: auto;">
 
 **Implementation**  
 As you consider what bot you want to create, you should think about the feasibility of the implementation, including:
