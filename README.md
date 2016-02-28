@@ -173,6 +173,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
     - Chapter 7: Role models. [PDF](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Week_6/signal_noise_chapter_7.pdf)
   - D. Lazar et al. The Parable of Google Flu: Traps in Big Data Analysis. Science Vol 343. March, 2014. [PDF](http://scholar.harvard.edu/files/gking/files/0314policyforumff.pdf)
   - I. Bogost, S. Ferrari, and B. Schweizer. Newsgames: Journalism at Play. 2010. Chapter 1: Newsgames. [PDF](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Week_6/newsgames-chapter1.pdf)
+  
+- In class tutorial / challenge
+  - Predicting NYT Picks Comments [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Week_6/Comments-prediction-skeleton.ipynb)
 
 - Recommended Readings DUE:
   - A Visual Introduction to Machine Learning. [Link](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) 
