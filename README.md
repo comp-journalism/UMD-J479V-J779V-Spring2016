@@ -191,8 +191,6 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - N. Diakopoulos. Algorithmic Accountability: Journalistic Investigation of Computational Power Structures. Digital Journalism. 2015. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/algorithmic_accountability_final.pdf)
   - J. Valentino-Devries,  J. Singer-Vine, A. Soltani. Websites Vary Prices, Deals Based on Users' Information. Wall Street Journal. Dec. 2012. [PDF](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Week_7/Websites%20Vary%20Prices-WSJ.pdf)
   - N. Diakopoulos. How Uber surge pricing really works. Washington Post. April, 2015. [Link](https://www.washingtonpost.com/news/wonk/wp/2015/04/17/how-uber-surge-pricing-really-works/)
-  
-- **Final Project Proposal OUT**
 
 
 ###March 14 - Spring break, no class!###
@@ -207,6 +205,8 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 - **March 23rd Assignment Three DUE**
 
+- **Final Project Proposal OUT**
+
 ###March 28 - Content Analytics & Impact###
 
 - Readings DUE:
@@ -214,9 +214,6 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - E. Tandoc Jr. and R. Thomas. The Ethics of Web Analytics. Digital Journalism, 3:2, 243-258, 2015.  [Article](http://www.tandfonline.com/doi/abs/10.1080/21670811.2014.909122#.Vnc3zOODFBc) (access on campus or via library to download PDF)
   - C. Breaux. You’ll Never Guess How Chartbeat’s Data Scientists Came Up With the Single Greatest Headline. Chartbeat Blog. Nov. 2015. [Article](http://blog.chartbeat.com/2015/11/20/youll-never-guess-how-chartbeats-data-scientists-came-up-with-the-single-greatest-headline/)
   - T. Fisher. Do Visual Stories Make People Care? NPR Visuals Blog. Nov. 2015. [Article](http://blog.apps.npr.org/2015/11/19/sequential-visual-stories.html)
-
-
-- **Final Project Proposal DUE**
 
 
 ###April 4 - Innovating CJ Tools & Platforms###
@@ -227,6 +224,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
  - N. Diakopoulos. Computational Journalism and the Emergence of News Platforms. The Routledge Companion to Digital Journalism Studies. Eds. Scott Eldridge II and Bob Franklin. June, 2016. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/Computational-Journalism-and-the-Emergence-of-News-Platforms.pdf)
  - N. Diakopoulos. Cultivating the Landscape of Innovation in Computational Journalism. Tow-Knight Center for Entrepreneurial Journalism. April, 2012. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2012/05/diakopoulos_whitepaper_systematicinnovation.pdf)
  - D.G. Park, S. Singh, N. Diakopoulos, N. Elmqvist. Interactive Identification of High Quality Online News Comments. Proc. Conference on Human Factors in Computing Systems (CHI). 2016. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/CommentIQ-CHI2016-Final-Version.pdf)
+
+- **Final Project Proposal DUE**
+
 
 ###April 11 - Research Paper Presentations & Project work###
 
