@@ -187,6 +187,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - News Bot Design & Development. [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Asgn3/news-bot-design-development.md) 
 
 ###March 7 - Algorithmic Accountability & Transparency###
+- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Week_7/Algorithmic%20Accountability%20and%20Transparency.pptx?raw=true)
 
 - Readings DUE:
   - N. Diakopoulos. Algorithmic Accountability: Journalistic Investigation of Computational Power Structures. Digital Journalism. 2015. [PDF](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/algorithmic_accountability_final.pdf)
