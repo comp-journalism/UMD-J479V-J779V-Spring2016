@@ -166,6 +166,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - Using Tweepy for Fun and Profit [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Week_5/Tweepy-skeleton.ipynb)
 
 ###February 29 - Simulation, Predicton, and Modeling###
+- Lecture Slides [PPT](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Week_6/6_simulation_prediction_modeling.pptx?raw=true)
 
 - Readings DUE:
   - N. Silver. The Signal and the Noise. Penguin Books. 2012. 
