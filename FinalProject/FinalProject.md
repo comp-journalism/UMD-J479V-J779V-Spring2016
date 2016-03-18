@@ -18,7 +18,7 @@ Once you decide on a key question or set of questions that you want to investiga
 
 After you collect the data to address your chosen questions you'll need to analyze it and make sense of it, ideally finding something newsworthy in the process. You may also consider creating visualizations of the data to help communicate your findings. In the process of data analysis do not forget to synthesis outside research, knowledge, and context in making sense of it. You are expected to "think computationally" in your analysis and use code to help cope with the scale of data analysis. 
 
-Finally, you'll write a news article that communicates your findings in a journalistic style (which may include visualizations as well). You'll also write a separate methods article to describe your data collection and analysis process. 
+Based on your findings you're write two articles: (1) a news article that communicates your findings in a journalistic style, and (2) a methods article to describe your data collection and analysis process. 
 
 **Project Team**   
 You will be assigned a partner to work with on the final project. This is done so as to ensure that the team has a balance of journalistic and computing skills. Please contact your partner ASAP to set up a time to meet. Here are the partners with contact information.
