@@ -21,7 +21,7 @@ After you collect the data to address your chosen questions you'll need to analy
 Based on your findings you're write two articles: (1) a news article that communicates your findings in a journalistic style, and (2) a methods article to describe your data collection and analysis process. 
 
 **Project Team**   
-You will be assigned a partner to work with on the final project. This is done so as to ensure that the team has a balance of journalistic and computing skills. Please contact your partner ASAP to set up a time to meet. Here are the partners with contact information.
+You will be assigned a partner to work with on the final project. This is done so as to ensure that the team has a balance of journalistic and computing skills. Please contact your partner ASAP to set up a time to meet. Here are the [teams](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/FinalProject/teams.md). If you need contact information for your partner let the professor know (or check any of the emails sent to the whole class). 
 
 **Project Proposal**  
 Your project proposal will succinctly describe (~600 words) what you intend to investigate and why it is an interesting and potentially newsworthy endeavor. In order to write an effective proposal you need to convince yourself "there's a there, there" -- that is, there's something [newsworthy](http://www.mediacollege.com/journalism/news/newsworthy.html) to dig into. Thus for the proposal you should have already spent time doing research, collecting preliminary data, and even doing some exploratory analysis of that data. 
