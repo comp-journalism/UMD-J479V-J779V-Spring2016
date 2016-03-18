@@ -205,6 +205,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - A. Spangher. Building the Next New York Times Recommendation Engine. NYT Open Blog. Aug. 2015 [Article](http://open.blogs.nytimes.com/2015/08/11/building-the-next-new-york-times-recommendation-engine/)
   - Y. Oren. Flipboard's Approach to Automatic Summarization. Oct. 2014. [Post](http://engineering.flipboard.com/2014/10/summarization/)
 
+- **Final Project OUT**
+  - [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/FinalProject/FinalProject.md) 
+
 - **March 23rd Assignment Three DUE**
 
 - **Final Project Proposal OUT**
