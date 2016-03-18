@@ -6,5 +6,5 @@ Final Project Teams
 - Dean Crasto and Teresa Lo 
 - Soheil Ehsani and Tong Wu
 - Gavish Gulati and Emily Goldman
-- Shivika Hkare and Gio Insignares
+- Shivika khare and Gio Insignares
 - Daniel Trielli and Kathik Sankararaman
