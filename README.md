@@ -210,7 +210,6 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 - **March 23rd Assignment Three DUE**
 
-- **Final Project Proposal OUT**
 
 ###March 28 - Content Analytics & Impact###
 
