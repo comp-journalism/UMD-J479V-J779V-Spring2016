@@ -219,6 +219,9 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - C. Breaux. You’ll Never Guess How Chartbeat’s Data Scientists Came Up With the Single Greatest Headline. Chartbeat Blog. Nov. 2015. [Article](http://blog.chartbeat.com/2015/11/20/youll-never-guess-how-chartbeats-data-scientists-came-up-with-the-single-greatest-headline/)
   - T. Fisher. Do Visual Stories Make People Care? NPR Visuals Blog. Nov. 2015. [Article](http://blog.apps.npr.org/2015/11/19/sequential-visual-stories.html)
 
+- In class exercise
+  - Content Analytics & Impact [Link](https://github.com/comp-journalism/UMD-J479V-J779V-Spring2016/blob/master/Weekly/Weed_10/content_analytics_impact-skeleton.ipynb)
+
 
 ###April 4 - Innovating CJ Tools & Platforms###
 
@@ -234,7 +237,7 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
 
 ###April 11 - Research Paper Presentations & Project work###
 
-###April 18 - Class feedback on final projects###
+###April 18 - In Class Final Project Progress Report Presentations###
 
 ###April 25 - Emerging Technology: Drones & Sensors###
 
@@ -244,5 +247,5 @@ Assignments will be marked down by one full letter grade for every 24 hours (or 
   - F. Pitt. "USA Today - Ghost Factories" (pages 73 - 82). In: Sensors and Journalism. Tow Center Report. 2014. [PDF](http://towcenter.org/wp-content/uploads/2014/05/Tow-Center-Sensors-and-Journalism.pdf) | [Original USA Today Package](http://usatoday30.usatoday.com/news/nation/smelting-lead-contamination#)
   - L. Bui. A (Working) Typology of Sensor Journalism Projects. Oct. 2014.  [Post](http://cmsw.mit.edu/working-typology-sensor-journalism-projects/)
 
-###May 2 - In Class Final project presentations###
+###May 2 - In Class Final Project Presentations###
 
